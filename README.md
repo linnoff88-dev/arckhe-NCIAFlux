@@ -6,7 +6,7 @@
 
 Sistema de organizaêÂ§êÂ£o pessoal baseado em neurociêÂªncia para pessoas com TDAH.
 
-[![Version](https://img.shields.io/badge/Version-1.3-purple)](https://github.com/inematds/NCIAFlux)
+[![Version](https://img.shields.io/badge/Version-1.3-purple)](https://github.com/linnoff88-dev/NCIAFlux)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
@@ -383,7 +383,7 @@ nciaflux_reviews       // RevisêÂµes semanais
 
 ```bash
 # Clonar repositêÂ³rio
-git clone https://github.com/inematds/NCIAFlux.git
+git clone https://github.com/linnoff88-dev/NCIAFlux.git
 cd NCIAFlux
 
 # Instalar pnpm (se necessêÂ¡rio)

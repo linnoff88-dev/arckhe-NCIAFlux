@@ -5,7 +5,7 @@
   "description": "NeuroFluxo Mentes Brilhantes - App de produtividade para TDAH",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inematds/NCIAFlux.git"
+    "url": "https://github.com/linnoff88-dev/NCIAFlux.git"
   },
   "scripts": {
     "build": "turbo run build",
