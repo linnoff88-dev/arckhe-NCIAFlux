@@ -480,7 +480,7 @@ export default function TasksPage() {
                       {/* Period */}
                       {task.period && (
                         <span className="text-xs px-2 py-1 rounded-full bg-blue-100 text-blue-700">
-                          {task.period === 'morning' ? '🌅 Manhã' :
+                          {task.period === 'morning' ? '🌅 Manhê' :
                            task.period === 'afternoon' ? '☀️ Tarde' : '🌙 Noite'}
                         </span>
                       )}
@@ -524,10 +524,10 @@ export default function TasksPage() {
         <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
           <div className="bg-white rounded-2xl p-6 max-w-sm w-full">
             <h3 className="text-lg font-semibold text-neutral-textPrimary mb-2">
-              Confirmar exclusão
+              Confirmar exclusêo
             </h3>
             <p className="text-neutral-textSecondary mb-6">
-              Tem certeza que deseja excluir esta tarefa? Esta ação não pode ser desfeita.
+              Tem certeza que deseja excluir esta tarefa? Esta açêo nêo pode ser desfeita.
             </p>
             <div className="flex gap-3">
               <button
@@ -613,7 +613,7 @@ function TaskModal({
           </div>
           <div>
             <label className="block text-sm font-medium text-neutral-textSecondary mb-2">
-              Descrição
+              Descriçêo
             </label>
             <textarea
               value={formData.description}
@@ -674,8 +674,8 @@ function TaskModal({
                 onChange={(e) => setFormData({ ...formData, period: e.target.value as '' | 'morning' | 'afternoon' | 'evening' })}
                 className="w-full px-4 py-2 rounded-lg border border-neutral-border focus:outline-none focus:ring-2 focus:ring-primary-main bg-white"
               >
-                <option value="">Não definido</option>
-                <option value="morning">🌅 Manhã</option>
+                <option value="">Nêo definido</option>
+                <option value="morning">🌅 Manhê</option>
                 <option value="afternoon">☀️ Tarde</option>
                 <option value="evening">🌙 Noite</option>
               </select>

@@ -66,7 +66,7 @@ export default function GamificationPage() {
       <div className="mb-8">
         <h1 className="text-2xl lg:text-3xl font-bold text-neutral-textPrimary flex items-center gap-3">
           <Sparkles className="w-8 h-8 text-secondary-main" />
-          Gamificação
+          Gamificaçêo
         </h1>
         <p className="text-neutral-textSecondary mt-1">
           Acompanhe seu progresso, conquistas e sequências
@@ -147,7 +147,7 @@ export default function GamificationPage() {
             <p className="font-medium text-neutral-textPrimary">Sequência Pausada</p>
             <p className="text-sm text-neutral-textSecondary">
               Sua sequência está pausada há {data.pausedDays} dia(s).
-              Não se preocupe - ela não será zerada! Volte quando estiver pronto.
+              Nêo se preocupe - ela nêo será zerada! Volte quando estiver pronto.
             </p>
           </div>
         </div>
@@ -242,11 +242,11 @@ export default function GamificationPage() {
           {[
             { action: 'Completar tarefa', xp: '10-30', icon: '✅' },
             { action: 'Fazer check-in', xp: '5', icon: '📝' },
-            { action: 'Sessão de foco', xp: '15-50', icon: '🎯' },
+            { action: 'Sessêo de foco', xp: '15-50', icon: '🎯' },
             { action: 'Manter sequência', xp: '10/dia', icon: '🔥' },
             { action: 'Completar rotina', xp: '20', icon: '🌅' },
             { action: 'Desbloquear conquista', xp: '50-200', icon: '🏆' },
-            { action: 'Revisão semanal', xp: '25', icon: '📊' },
+            { action: 'Revisêo semanal', xp: '25', icon: '📊' },
             { action: 'Ajudar parceiro', xp: '10', icon: '🤝' },
           ].map((item, index) => (
             <div key={index} className="flex items-center gap-3 p-3 bg-neutral-background rounded-xl">

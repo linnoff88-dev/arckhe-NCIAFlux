@@ -1,10 +1,10 @@
-﻿# NeuroFluxo Mentes Brilhantes
+ï»¿# NeuroFluxo Mentes Brilhantes
 
 <div align="center">
 
-**v1.3** | Produtividade que entende vocÃª
+**v1.3** | Produtividade que entende vocêÂª
 
-Sistema de organizaÃ§Ã£o pessoal baseado em neurociÃªncia para pessoas com TDAH.
+Sistema de organizaêÂ§êÂ£o pessoal baseado em neurociêÂªncia para pessoas com TDAH.
 
 [![Version](https://img.shields.io/badge/Version-1.3-purple)](https://github.com/inematds/NCIAFlux)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
@@ -13,7 +13,7 @@ Sistema de organizaÃ§Ã£o pessoal baseado em neurociÃªncia para pessoas com
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[**Demo ao Vivo**](https://ncia-flux.vercel.app) | [**DocumentaÃ§Ã£o**](docs/)
+[**Demo ao Vivo**](https://ncia-flux.vercel.app) | [**DocumentaêÂ§êÂ£o**](docs/)
 
 </div>
 
@@ -21,52 +21,52 @@ Sistema de organizaÃ§Ã£o pessoal baseado em neurociÃªncia para pessoas com
 
 ## Sobre o Projeto
 
-NCIAFlux (NeuroFluxo) Ã© um aplicativo web projetado especificamente para pessoas com TDAH. Diferente de apps genÃ©ricos de produtividade, o NeuroFluxo entende que cada pessoa tem seu prÃ³prio ritmo e adapta suas ferramentas ao perfil cognitivo do usuÃ¡rio.
+NCIAFlux (NeuroFluxo) êÂ© um aplicativo web projetado especificamente para pessoas com TDAH. Diferente de apps genêÂ©ricos de produtividade, o NeuroFluxo entende que cada pessoa tem seu prêÂ³prio ritmo e adapta suas ferramentas ao perfil cognitivo do usuêÂ¡rio.
 
 ### Por que "Mentes Brilhantes"?
 
-Porque acreditamos que cÃ©rebros neurodivergentes nÃ£o sÃ£o defeituosos - sÃ£o diferentes. E com as ferramentas certas, podem brilhar.
+Porque acreditamos que cêÂ©rebros neurodivergentes nêÂ£o sêÂ£o defeituosos - sêÂ£o diferentes. E com as ferramentas certas, podem brilhar.
 
 ### Diferenciais
 
-- **Cronotipos**: Descubra seu perfil de produtividade (LeÃ£o, Urso, Lobo, Golfinho)
+- **Cronotipos**: Descubra seu perfil de produtividade (LeêÂ£o, Urso, Lobo, Golfinho)
 - **Brain Dump**: Capture pensamentos sem julgamento, organize depois
 - **Planner Adaptativo**: Check-in de humor/energia que adapta o dia
-- **Rotinas Condicionais**: Regras "se/entÃ£o" para dias diferentes
-- **Modo Crise**: Suporte imediato quando vocÃª trava
-- **Sem PressÃ£o**: Acompanhamento gentil, celebraÃ§Ãµes e micro-recompensas
+- **Rotinas Condicionais**: Regras "se/entêÂ£o" para dias diferentes
+- **Modo Crise**: Suporte imediato quando vocêÂª trava
+- **Sem PressêÂ£o**: Acompanhamento gentil, celebraêÂ§êÂµes e micro-recompensas
 
 ---
 
-## Autismo e TDAH em NÃºmeros (2026)
+## Autismo e TDAH em NêÂºmeros (2026)
 
-Este projeto existe porque **milhÃµes de pessoas** precisam de ferramentas que entendam como seus cÃ©rebros funcionam.
+Este projeto existe porque **milhêÂµes de pessoas** precisam de ferramentas que entendam como seus cêÂ©rebros funcionam.
 
 ### Brasil
 
-| CondiÃ§Ã£o | Estimativa 2026 | Fonte |
+| CondiêÂ§êÂ£o | Estimativa 2026 | Fonte |
 |----------|-----------------|-------|
-| **Autismo (TEA)** | 2,4 - 2,6 milhÃµes | IBGE Censo 2022 (~1,2% da populaÃ§Ã£o) |
-| **TDAH** | ~11 milhÃµes | Estudos epidemiolÃ³gicos (~7,6% crianÃ§as/adolescentes) |
+| **Autismo (TEA)** | 2,4 - 2,6 milhêÂµes | IBGE Censo 2022 (~1,2% da populaêÂ§êÂ£o) |
+| **TDAH** | ~11 milhêÂµes | Estudos epidemiolêÂ³gicos (~7,6% crianêÂ§as/adolescentes) |
 
 > O Censo 2022 foi o **primeiro levantamento oficial brasileiro** a incluir dados sobre autismo.
 
 ### Mundo
 
-| CondiÃ§Ã£o | Estimativa 2026 | PrevalÃªncia |
+| CondiêÂ§êÂ£o | Estimativa 2026 | PrevalêÂªncia |
 |----------|-----------------|-------------|
-| **Autismo (TEA)** | ~65 milhÃµes | 1 em cada 127 pessoas (OMS) |
-| **TDAH** | ~94 milhÃµes | ~1,13% da populaÃ§Ã£o (GBD) |
+| **Autismo (TEA)** | ~65 milhêÂµes | 1 em cada 127 pessoas (OMS) |
+| **TDAH** | ~94 milhêÂµes | ~1,13% da populaêÂ§êÂ£o (GBD) |
 
 ### Por que isso importa?
 
-Apps de produtividade tradicionais sÃ£o feitos para cÃ©rebros neurotÃ­picos. Pessoas com TDAH e autismo frequentemente:
-- TÃªm dificuldade com listas rÃ­gidas e horÃ¡rios fixos
-- Experimentam paralisia por anÃ¡lise e sobrecarga sensorial
-- Precisam de lembretes gentis, nÃ£o cobranÃ§as
-- Funcionam melhor com recompensas imediatas e micro-vitÃ³rias
+Apps de produtividade tradicionais sêÂ£o feitos para cêÂ©rebros neurotêÂ­picos. Pessoas com TDAH e autismo frequentemente:
+- TêÂªm dificuldade com listas rêÂ­gidas e horêÂ¡rios fixos
+- Experimentam paralisia por anêÂ¡lise e sobrecarga sensorial
+- Precisam de lembretes gentis, nêÂ£o cobranêÂ§as
+- Funcionam melhor com recompensas imediatas e micro-vitêÂ³rias
 
-O NeuroFluxo foi projetado **desde o inÃ­cio** para essas necessidades.
+O NeuroFluxo foi projetado **desde o inêÂ­cio** para essas necessidades.
 
 ---
 
@@ -74,29 +74,29 @@ O NeuroFluxo foi projetado **desde o inÃ­cio** para essas necessidades.
 
 ### v1.0 - Base
 
-| MÃ³dulo | DescriÃ§Ã£o |
+| MêÂ³dulo | DescriêÂ§êÂ£o |
 |--------|-----------|
-| **Landing Page** | ApresentaÃ§Ã£o do produto com CTA |
-| **AutenticaÃ§Ã£o** | Login, registro, recuperaÃ§Ã£o de senha |
+| **Landing Page** | ApresentaêÂ§êÂ£o do produto com CTA |
+| **AutenticaêÂ§êÂ£o** | Login, registro, recuperaêÂ§êÂ£o de senha |
 | **Demo Mode** | Experimente com dados de exemplo |
-| **Brain Dump** | Captura de pensamentos com triagem e Top 1 diÃ¡rio |
-| **Cronotipos** | QuestionÃ¡rio de descoberta + perfil personalizado |
-| **Planner DiÃ¡rio** | Check-in matinal, tarefas por perÃ­odo (manhÃ£/tarde/noite) |
+| **Brain Dump** | Captura de pensamentos com triagem e Top 1 diêÂ¡rio |
+| **Cronotipos** | QuestionêÂ¡rio de descoberta + perfil personalizado |
+| **Planner DiêÂ¡rio** | Check-in matinal, tarefas por perêÂ­odo (manhêÂ£/tarde/noite) |
 | **Rotinas** | Rotinas matinais e noturnas com passos condicionais |
 | **Projetos** | Organize tarefas por projeto com cores e emojis |
-| **Tarefas Unificadas** | Lista geral com filtros por status, projeto e perÃ­odo |
-| **CalendÃ¡rio** | VisualizaÃ§Ã£o mensal de eventos e tarefas |
-| **Notas** | Inbox rÃ¡pido + organizaÃ§Ã£o em pastas |
-| **RevisÃµes Semanais** | ReflexÃ£o: vitÃ³rias, desafios, aprendizados |
-| **Modo Foco** | TÃ©cnica Pomodoro com pausas guiadas |
-| **Modo Crise** | TÃ©cnicas de grounding para momentos difÃ­ceis |
-| **RelatÃ³rios** | EstatÃ­sticas de produtividade e padrÃµes |
-| **Equipes** | GestÃ£o de equipe (visÃ£o admin) |
-| **ConfiguraÃ§Ãµes** | PreferÃªncias, foto, senha |
+| **Tarefas Unificadas** | Lista geral com filtros por status, projeto e perêÂ­odo |
+| **CalendêÂ¡rio** | VisualizaêÂ§êÂ£o mensal de eventos e tarefas |
+| **Notas** | Inbox rêÂ¡pido + organizaêÂ§êÂ£o em pastas |
+| **RevisêÂµes Semanais** | ReflexêÂ£o: vitêÂ³rias, desafios, aprendizados |
+| **Modo Foco** | TêÂ©cnica Pomodoro com pausas guiadas |
+| **Modo Crise** | TêÂ©cnicas de grounding para momentos difêÂ­ceis |
+| **RelatêÂ³rios** | EstatêÂ­sticas de produtividade e padrêÂµes |
+| **Equipes** | GestêÂ£o de equipe (visêÂ£o admin) |
+| **ConfiguraêÂ§êÂµes** | PreferêÂªncias, foto, senha |
 
 ### v1.1 - Storage Local Aprimorado
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **Barra de Status** | Humor, energia, foco e tarefas no topo do dashboard |
 | **Timer de Foco Integrado** | Escolha tecnica primeiro, depois tarefa para focar |
@@ -106,7 +106,7 @@ O NeuroFluxo foi projetado **desde o inÃ­cio** para essas necessidades.
 
 ### v1.2 - Multi-Perfil
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **Multi-Usuario Local** | Suporte a multiplos perfis no mesmo dispositivo |
 | **Storage Prefixado** | Dados isolados por usuario (nciaflux_${userId}_...) |
@@ -119,15 +119,15 @@ O NeuroFluxo foi projetado **desde o inÃ­cio** para essas necessidades.
 
 ### v1.3 - Chat com IA (Atual)
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **Chat por Texto** | Converse com IA para criar tarefas, brain dump, pedir ajuda |
 | **Comandos de Voz** | Fale para criar e gerenciar tarefas (Web Speech API) |
 | **OpenRouter** | Gateway para escolher entre LLMs (Claude, GPT-4, Mistral) |
-| **Tool Use** | IA executa aÃ§Ãµes na app (criar tarefas, ativar modo crise) |
-| **Assistente Contextual** | SugestÃµes baseadas no perfil cognitivo e cronotipo |
+| **Tool Use** | IA executa aêÂ§êÂµes na app (criar tarefas, ativar modo crise) |
+| **Assistente Contextual** | SugestêÂµes baseadas no perfil cognitivo e cronotipo |
 | **Brain Dump por Voz** | Fale pensamentos, IA organiza automaticamente |
-| **Listagem por Chat** | IA lista tarefas, eventos e brain dump do usuÃ¡rio |
+| **Listagem por Chat** | IA lista tarefas, eventos e brain dump do usuêÂ¡rio |
 
 ---
 
@@ -135,130 +135,130 @@ O NeuroFluxo foi projetado **desde o inÃ­cio** para essas necessidades.
 
 ### v1.4 - Sistema Adaptativo + Cloud (Plano Plus)
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
-| **Supabase Auth** | Login com Google/Email, sessÃ£o persistente |
-| **Sync Offline-First** | Dados locais + sincronizaÃ§Ã£o quando online |
+| **Supabase Auth** | Login com Google/Email, sessêÂ£o persistente |
+| **Sync Offline-First** | Dados locais + sincronizaêÂ§êÂ£o quando online |
 | **Multi-Device** | Acesse seus dados em qualquer dispositivo |
-| **ImportaÃ§Ã£o em Massa** | Importar tarefas, eventos, notas, brain dump (CSV/ICS/JSON) |
-| **Sistema Adaptativo** | App detecta padrÃµes e ajusta experiÃªncia automaticamente |
-| **Perfil TDAH** | QuestionÃ¡rio de subtipo (hiperativo/desatento/combinado) |
-| **Ferramentas de AvaliaÃ§Ã£o** | Refazer questionÃ¡rios, editar perfil manualmente |
-| **RelatÃ³rio Pessoal** | Mapa de energia, padrÃµes de humor, recomendaÃ§Ãµes |
-| **LiberaÃ§Ã£o Progressiva** | Features liberadas conforme estabilidade do usuÃ¡rio |
-| **GamificaÃ§Ã£o BÃ¡sica** | CelebraÃ§Ãµes suaves, streaks gentis (sem puniÃ§Ã£o por falha) |
+| **ImportaêÂ§êÂ£o em Massa** | Importar tarefas, eventos, notas, brain dump (CSV/ICS/JSON) |
+| **Sistema Adaptativo** | App detecta padrêÂµes e ajusta experiêÂªncia automaticamente |
+| **Perfil TDAH** | QuestionêÂ¡rio de subtipo (hiperativo/desatento/combinado) |
+| **Ferramentas de AvaliaêÂ§êÂ£o** | Refazer questionêÂ¡rios, editar perfil manualmente |
+| **RelatêÂ³rio Pessoal** | Mapa de energia, padrêÂµes de humor, recomendaêÂ§êÂµes |
+| **LiberaêÂ§êÂ£o Progressiva** | Features liberadas conforme estabilidade do usuêÂ¡rio |
+| **GamificaêÂ§êÂ£o BêÂ¡sica** | CelebraêÂ§êÂµes suaves, streaks gentis (sem puniêÂ§êÂ£o por falha) |
 | **Chat 1:1** | Conversa privada (parceiro accountability) |
 | **Chat em Grupo** | Comunidades de apoio |
 
-> DocumentaÃ§Ã£o: [docs/v1.4-adaptive-system.md](docs/v1.4-adaptive-system.md)
+> DocumentaêÂ§êÂ£o: [docs/v1.4-adaptive-system.md](docs/v1.4-adaptive-system.md)
 
-### v1.5 - GestÃ£o de Times (Plano Pro)
+### v1.5 - GestêÂ£o de Times (Plano Pro)
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **Criar Times** | Gestor cria equipe e convida membros |
-| **Roles** | Admin, Gestor, Membro com permissÃµes diferentes |
-| **Dashboard do Gestor** | VisÃ£o geral da equipe (dados anonimizados) |
+| **Roles** | Admin, Gestor, Membro com permissêÂµes diferentes |
+| **Dashboard do Gestor** | VisêÂ£o geral da equipe (dados anonimizados) |
 | **Liberar Features** | Gestor pode habilitar features para membros |
-| **RelatÃ³rios de Time** | MÃ©tricas agregadas da equipe |
-| **GamificaÃ§Ã£o AvanÃ§ada** | Conquistas, XP, nÃ­veis, desafios (liberado por estabilidade) |
+| **RelatêÂ³rios de Time** | MêÂ©tricas agregadas da equipe |
+| **GamificaêÂ§êÂ£o AvanêÂ§ada** | Conquistas, XP, nêÂ­veis, desafios (liberado por estabilidade) |
 
-### v1.6 - PWA e NotificaÃ§Ãµes
+### v1.6 - PWA e NotificaêÂ§êÂµes
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
-| **PWA InstalÃ¡vel** | Instale no celular como app nativo |
-| **NotificaÃ§Ãµes Push** | Lembretes de tarefas, rotinas, check-in |
+| **PWA InstalêÂ¡vel** | Instale no celular como app nativo |
+| **NotificaêÂ§êÂµes Push** | Lembretes de tarefas, rotinas, check-in |
 | **Modo Escuro** | Tema escuro para uso noturno |
 
 ### v1.7 - Voice Output (TTS)
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **Text-to-Speech** | Assistente responde por voz (Web Speech API) |
-| **Vozes em PT-BR** | Escolha de vozes disponÃ­veis |
-| **Auto-Read Modo Crise** | Leitura automÃ¡tica quando sobrecarregado |
+| **Vozes em PT-BR** | Escolha de vozes disponêÂ­veis |
+| **Auto-Read Modo Crise** | Leitura automêÂ¡tica quando sobrecarregado |
 | **Controles de Voz** | Ajuste de velocidade e tom |
 
 ### v1.8 - Messaging Integration
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **Telegram Bot** | Interaja com o app via Telegram |
-| **WhatsApp** | IntegraÃ§Ã£o via Business API ou web.js |
+| **WhatsApp** | IntegraêÂ§êÂ£o via Business API ou web.js |
 | **Email** | Resumos e lembretes por email |
 
-> DocumentaÃ§Ã£o: [docs/v1.9-messaging-integration.md](docs/v1.9-messaging-integration.md)
+> DocumentaêÂ§êÂ£o: [docs/v1.9-messaging-integration.md](docs/v1.9-messaging-integration.md)
 
-### v1.9 - IntegraÃ§Ãµes Externas
+### v1.9 - IntegraêÂ§êÂµes Externas
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **Google Calendar** | Sincronizar eventos com Google Agenda |
-| **Apple Calendar** | Sincronizar com calendÃ¡rio Apple |
-| **Outlook** | IntegraÃ§Ã£o com Microsoft 365 |
-| **ImportaÃ§Ã£o AutomÃ¡tica** | Sync contÃ­nuo de eventos externos |
+| **Apple Calendar** | Sincronizar com calendêÂ¡rio Apple |
+| **Outlook** | IntegraêÂ§êÂ£o com Microsoft 365 |
+| **ImportaêÂ§êÂ£o AutomêÂ¡tica** | Sync contêÂ­nuo de eventos externos |
 
-### v2.0 - IA AvanÃ§ada (Plano Premium)
+### v2.0 - IA AvanêÂ§ada (Plano Premium)
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **IA Ilimitada** | Sem limite de mensagens no chat |
-| **Resumo DiÃ¡rio** | IA resume seu dia e sugere prÃ³ximos passos |
-| **AnÃ¡lise Preditiva** | IA prevÃª dias difÃ­ceis e sugere preparaÃ§Ã£o |
+| **Resumo DiêÂ¡rio** | IA resume seu dia e sugere prêÂ³ximos passos |
+| **AnêÂ¡lise Preditiva** | IA prevêÂª dias difêÂ­ceis e sugere preparaêÂ§êÂ£o |
 
-### v2.3 - IntegraÃ§Ã£o com Terapeutas
+### v2.3 - IntegraêÂ§êÂ£o com Terapeutas
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
-| **Vincular Terapeuta** | UsuÃ¡rio convida profissional de saÃºde |
-| **RelatÃ³rios ClÃ­nicos** | Exportar humor, energia, padrÃµes para terapeuta |
-| **Modo Acompanhamento** | Terapeuta visualiza progresso (com permissÃ£o) |
-| **Liberar Features** | Terapeuta pode habilitar features sensÃ­veis |
+| **Vincular Terapeuta** | UsuêÂ¡rio convida profissional de saêÂºde |
+| **RelatêÂ³rios ClêÂ­nicos** | Exportar humor, energia, padrêÂµes para terapeuta |
+| **Modo Acompanhamento** | Terapeuta visualiza progresso (com permissêÂ£o) |
+| **Liberar Features** | Terapeuta pode habilitar features sensêÂ­veis |
 
-### v2.5 - Testes e EstabilizaÃ§Ã£o
+### v2.5 - Testes e EstabilizaêÂ§êÂ£o
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
-| **Testes Automatizados** | Cobertura de testes unitÃ¡rios e E2E |
-| **CI/CD Pipeline** | IntegraÃ§Ã£o e deploy contÃ­nuos |
-| **Testes de SeguranÃ§a** | Auditoria de seguranÃ§a completa |
+| **Testes Automatizados** | Cobertura de testes unitêÂ¡rios e E2E |
+| **CI/CD Pipeline** | IntegraêÂ§êÂ£o e deploy contêÂ­nuos |
+| **Testes de SeguranêÂ§a** | Auditoria de seguranêÂ§a completa |
 | **Testes de Acessibilidade** | WCAG 2.1 compliance |
 | **Beta Testing** | Programa de beta testers |
 
 ### v3.0 - App Nativo (Plano Empresarial)
 
-| Feature | DescriÃ§Ã£o |
+| Feature | DescriêÂ§êÂ£o |
 |---------|-----------|
 | **App iOS Nativo** | Swift/SwiftUI para melhor performance |
 | **App Android Nativo** | Kotlin para melhor performance |
 | **Widgets Nativos** | Widgets para tela inicial |
 | **Wearables** | Apple Watch e Wear OS |
-| **Biometria** | Face ID, Touch ID, impressÃ£o digital |
-| **OrganizaÃ§Ãµes** | Admin cria empresas e organizaÃ§Ãµes |
-| **API PÃºblica** | IntegraÃ§Ãµes com outros apps |
+| **Biometria** | Face ID, Touch ID, impressêÂ£o digital |
+| **OrganizaêÂ§êÂµes** | Admin cria empresas e organizaêÂ§êÂµes |
+| **API PêÂºblica** | IntegraêÂ§êÂµes com outros apps |
 
 ### Status do Desenvolvimento
 
 ```
-v1.0 â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 100% - Base completa
-v1.1 â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 100% - Storage local aprimorado
-v1.2 â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 100% - Multi-perfil
-v1.3 â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 100% - Chat com IA â† ATUAL
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-v1.4 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - Sistema Adaptativo + Cloud + GamificaÃ§Ã£o
-v1.5 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - GestÃ£o de Times (Pro)
-v1.6 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - PWA e NotificaÃ§Ãµes
-v1.7 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - Voice Output (TTS)
-v1.8 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - Messaging (Telegram/WhatsApp)
-v1.9 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - IntegraÃ§Ãµes Externas (CalendÃ¡rios)
-v2.0 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - IA AvanÃ§ada (Premium)
-v2.3 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - IntegraÃ§Ã£o Terapeutas
-v2.5 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - Testes e EstabilizaÃ§Ã£o
-v3.0 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   0% - App Nativo (Empresarial)
+v1.0 ê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âË 100% - Base completa
+v1.1 ê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âË 100% - Storage local aprimorado
+v1.2 ê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âË 100% - Multi-perfil
+v1.3 ê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âË 100% - Chat com IA ê¢â Â ATUAL
+ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬
+v1.4 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - Sistema Adaptativo + Cloud + GamificaêÂ§êÂ£o
+v1.5 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - GestêÂ£o de Times (Pro)
+v1.6 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - PWA e NotificaêÂ§êÂµes
+v1.7 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - Voice Output (TTS)
+v1.8 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - Messaging (Telegram/WhatsApp)
+v1.9 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - IntegraêÂ§êÂµes Externas (CalendêÂ¡rios)
+v2.0 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - IA AvanêÂ§ada (Premium)
+v2.3 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - IntegraêÂ§êÂ£o Terapeutas
+v2.5 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - Testes e EstabilizaêÂ§êÂ£o
+v3.0 ê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââê¢ââ   0% - App Nativo (Empresarial)
 ```
 
-> **Nota:** VersÃ£o atual (v1.3). Demo simula 3 perfis (Usuario/Gestor/Admin) para demonstraÃ§Ã£o.
+> **Nota:** VersêÂ£o atual (v1.3). Demo simula 3 perfis (Usuario/Gestor/Admin) para demonstraêÂ§êÂ£o.
 
 ---
 
@@ -266,43 +266,43 @@ v3.0 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â�
 
 ### Dashboard
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  Bom dia, JoÃ£o! â˜€ï¸                                      â”‚
-â”‚                                                         â”‚
-â”‚  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â” â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â” â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â” â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”   â”‚
-â”‚  â”‚ Tarefas  â”‚ â”‚ Projetos â”‚ â”‚ Rotinas  â”‚ â”‚ Energia  â”‚   â”‚
-â”‚  â”‚    12    â”‚ â”‚    4     â”‚ â”‚   85%    â”‚ â”‚   âš¡ 7   â”‚   â”‚
-â”‚  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜ â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜ â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜ â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜   â”‚
-â”‚                                                         â”‚
-â”‚  Top 1 de Hoje: Entregar relatÃ³rio mensal              â”‚
-â”‚                                                         â”‚
-â”‚  PrÃ³ximas Tarefas:                                      â”‚
-â”‚  ðŸ”´ ReuniÃ£o com cliente (10h)                          â”‚
-â”‚  ðŸŸ¡ Revisar documentaÃ§Ã£o                               â”‚
-â”‚  ðŸŸ¢ Responder emails                                   â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ
+ê¢ââ  Bom dia, JoêÂ£o! ê¢Ëâ¬ê¯Â¸Â                                      ê¢ââ
+ê¢ââ                                                         ê¢ââ
+ê¢ââ  ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ   ê¢ââ
+ê¢ââ  ê¢ââ Tarefas  ê¢ââ ê¢ââ Projetos ê¢ââ ê¢ââ Rotinas  ê¢ââ ê¢ââ Energia  ê¢ââ   ê¢ââ
+ê¢ââ  ê¢ââ    12    ê¢ââ ê¢ââ    4     ê¢ââ ê¢ââ   85%    ê¢ââ ê¢ââ   ê¢Å¡Â¡ 7   ê¢ââ   ê¢ââ
+ê¢ââ  ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË   ê¢ââ
+ê¢ââ                                                         ê¢ââ
+ê¢ââ  Top 1 de Hoje: Entregar relatêÂ³rio mensal              ê¢ââ
+ê¢ââ                                                         ê¢ââ
+ê¢ââ  PrêÂ³ximas Tarefas:                                      ê¢ââ
+ê¢ââ  ê°Å¸âÂ´ ReuniêÂ£o com cliente (10h)                          ê¢ââ
+ê¢ââ  ê°Å¸Å¸Â¡ Revisar documentaêÂ§êÂ£o                               ê¢ââ
+ê¢ââ  ê°Å¸Å¸Â¢ Responder emails                                   ê¢ââ
+ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË
 ```
 
-### Planner DiÃ¡rio
+### Planner DiêÂ¡rio
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  ðŸ“… Sexta, 24 de Janeiro                               â”‚
-â”‚                                                         â”‚
-â”‚  Como vocÃª estÃ¡?  ðŸ˜Š ðŸ˜ ðŸ˜” ðŸ˜¤                          â”‚
-â”‚  Energia: â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘ 8/10                              â”‚
-â”‚  Sono: â­â­â­â­â˜† 4/5                                    â”‚
-â”‚                                                         â”‚
-â”‚  â˜€ï¸ MANHÃƒ                                              â”‚
-â”‚  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”        â”‚
-â”‚  â”‚ â­ Preparar apresentaÃ§Ã£o         Em Andamentoâ”‚       â”‚
-â”‚  â”‚ â˜ Revisar emails                   Pendente â”‚        â”‚
-â”‚  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜        â”‚
-â”‚                                                         â”‚
-â”‚  ðŸŒ¤ï¸ TARDE                                              â”‚
-â”‚  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”        â”‚
-â”‚  â”‚ â˜ ReuniÃ£o de equipe               Pendente â”‚        â”‚
-â”‚  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜        â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ
+ê¢ââ  ê°Å¸ââ¦ Sexta, 24 de Janeiro                               ê¢ââ
+ê¢ââ                                                         ê¢ââ
+ê¢ââ  Como vocêÂª estêÂ¡?  ê°Å¸ËÅ  ê°Å¸ËÂ ê°Å¸Ëâ ê°Å¸ËÂ¤                          ê¢ââ
+ê¢ââ  Energia: ê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢âËê¢ââê¢ââ 8/10                              ê¢ââ
+ê¢ââ  Sono: ê¢Â­Âê¢Â­Âê¢Â­Âê¢Â­Âê¢Ëâ  4/5                                    ê¢ââ
+ê¢ââ                                                         ê¢ââ
+ê¢ââ  ê¢Ëâ¬ê¯Â¸Â MANHêÆ                                              ê¢ââ
+ê¢ââ  ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ        ê¢ââ
+ê¢ââ  ê¢ââ ê¢Â­Â Preparar apresentaêÂ§êÂ£o         Em Andamentoê¢ââ       ê¢ââ
+ê¢ââ  ê¢ââ ê¢ËÂ Revisar emails                   Pendente ê¢ââ        ê¢ââ
+ê¢ââ  ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË        ê¢ââ
+ê¢ââ                                                         ê¢ââ
+ê¢ââ  ê°Å¸ÅÂ¤ê¯Â¸Â TARDE                                              ê¢ââ
+ê¢ââ  ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ        ê¢ââ
+ê¢ââ  ê¢ââ ê¢ËÂ ReuniêÂ£o de equipe               Pendente ê¢ââ        ê¢ââ
+ê¢ââ  ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË        ê¢ââ
+ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË
 ```
 
 ---
@@ -313,33 +313,33 @@ v3.0 â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â�
 
 ```
 NCIAFlux/
-â”œâ”€â”€ apps/
-â”‚   â””â”€â”€ web/                      # App Web (Next.js 14)
-â”‚       â””â”€â”€ src/
-â”‚           â”œâ”€â”€ app/              # App Router
-â”‚           â”‚   â”œâ”€â”€ dashboard/    # MÃ³dulos do app
-â”‚           â”‚   â”‚   â”œâ”€â”€ brain-dump/
-â”‚           â”‚   â”‚   â”œâ”€â”€ calendar/
-â”‚           â”‚   â”‚   â”œâ”€â”€ chronotype/
-â”‚           â”‚   â”‚   â”œâ”€â”€ notes/
-â”‚           â”‚   â”‚   â”œâ”€â”€ planner/
-â”‚           â”‚   â”‚   â”œâ”€â”€ projects/
-â”‚           â”‚   â”‚   â”œâ”€â”€ review/
-â”‚           â”‚   â”‚   â”œâ”€â”€ routines/
-â”‚           â”‚   â”‚   â”œâ”€â”€ tasks/
-â”‚           â”‚   â”‚   â””â”€â”€ ...
-â”‚           â”‚   â”œâ”€â”€ demo/         # Modo demonstraÃ§Ã£o
-â”‚           â”‚   â”œâ”€â”€ login/        # AutenticaÃ§Ã£o
-â”‚           â”‚   â””â”€â”€ register/
-â”‚           â”œâ”€â”€ components/       # Componentes reutilizÃ¡veis
-â”‚           â””â”€â”€ lib/              # UtilitÃ¡rios e storage
-â”œâ”€â”€ packages/
-â”‚   â””â”€â”€ shared/                   # Tipos compartilhados
-â”œâ”€â”€ docs/                         # DocumentaÃ§Ã£o
-â”‚   â”œâ”€â”€ prd.md                    # Product Requirements
-â”‚   â”œâ”€â”€ architecture.md           # Arquitetura tÃ©cnica
-â”‚   â””â”€â”€ stories/                  # User Stories
-â””â”€â”€ .bmad-core/                   # Framework BMad Method
+ê¢âÅê¢ââ¬ê¢ââ¬ apps/
+ê¢ââ   ê¢ââê¢ââ¬ê¢ââ¬ web/                      # App Web (Next.js 14)
+ê¢ââ       ê¢ââê¢ââ¬ê¢ââ¬ src/
+ê¢ââ           ê¢âÅê¢ââ¬ê¢ââ¬ app/              # App Router
+ê¢ââ           ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ dashboard/    # MêÂ³dulos do app
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ brain-dump/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ calendar/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ chronotype/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ notes/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ planner/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ projects/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ review/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ routines/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ tasks/
+ê¢ââ           ê¢ââ   ê¢ââ   ê¢ââê¢ââ¬ê¢ââ¬ ...
+ê¢ââ           ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ demo/         # Modo demonstraêÂ§êÂ£o
+ê¢ââ           ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ login/        # AutenticaêÂ§êÂ£o
+ê¢ââ           ê¢ââ   ê¢ââê¢ââ¬ê¢ââ¬ register/
+ê¢ââ           ê¢âÅê¢ââ¬ê¢ââ¬ components/       # Componentes reutilizêÂ¡veis
+ê¢ââ           ê¢ââê¢ââ¬ê¢ââ¬ lib/              # UtilitêÂ¡rios e storage
+ê¢âÅê¢ââ¬ê¢ââ¬ packages/
+ê¢ââ   ê¢ââê¢ââ¬ê¢ââ¬ shared/                   # Tipos compartilhados
+ê¢âÅê¢ââ¬ê¢ââ¬ docs/                         # DocumentaêÂ§êÂ£o
+ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ prd.md                    # Product Requirements
+ê¢ââ   ê¢âÅê¢ââ¬ê¢ââ¬ architecture.md           # Arquitetura têÂ©cnica
+ê¢ââ   ê¢ââê¢ââ¬ê¢ââ¬ stories/                  # User Stories
+ê¢ââê¢ââ¬ê¢ââ¬ .bmad-core/                   # Framework BMad Method
 ```
 
 ### Tech Stack
@@ -348,26 +348,26 @@ NCIAFlux/
 |--------|------------|
 | **Framework** | Next.js 14 (App Router) |
 | **Linguagem** | TypeScript 5.0 |
-| **EstilizaÃ§Ã£o** | Tailwind CSS 3.4 |
-| **Storage** | localStorage (hÃ­brido, preparado para backend) |
+| **EstilizaêÂ§êÂ£o** | Tailwind CSS 3.4 |
+| **Storage** | localStorage (hêÂ­brido, preparado para backend) |
 | **Deploy** | Vercel (auto-deploy via GitHub) |
 | **Monorepo** | Turborepo + pnpm |
 
 ### Armazenamento
 
-O app usa localStorage com estrutura preparada para migraÃ§Ã£o para backend:
+O app usa localStorage com estrutura preparada para migraêÂ§êÂ£o para backend:
 
 ```typescript
 // Chaves de storage
-nciaflux_user          // Dados do usuÃ¡rio
+nciaflux_user          // Dados do usuêÂ¡rio
 nciaflux_tasks         // Tarefas unificadas
 nciaflux_projects      // Projetos
 nciaflux_notes         // Notas
 nciaflux_routines      // Rotinas
-nciaflux_dayplan       // Plano diÃ¡rio
+nciaflux_dayplan       // Plano diêÂ¡rio
 nciaflux_braindump     // Brain dump
 nciaflux_chronotype    // Perfil de cronotipo
-nciaflux_reviews       // RevisÃµes semanais
+nciaflux_reviews       // RevisêÂµes semanais
 ```
 
 ---
@@ -379,71 +379,71 @@ nciaflux_reviews       // RevisÃµes semanais
 - Node.js 18+
 - pnpm 8+
 
-### InstalaÃ§Ã£o
+### InstalaêÂ§êÂ£o
 
 ```bash
-# Clonar repositÃ³rio
+# Clonar repositêÂ³rio
 git clone https://github.com/inematds/NCIAFlux.git
 cd NCIAFlux
 
-# Instalar pnpm (se necessÃ¡rio)
+# Instalar pnpm (se necessêÂ¡rio)
 npm install -g pnpm
 
-# Instalar dependÃªncias
+# Instalar dependêÂªncias
 pnpm install
 
 # Rodar em desenvolvimento
 pnpm dev:web
 ```
 
-O app estarÃ¡ disponÃ­vel em `http://localhost:3000`
+O app estarêÂ¡ disponêÂ­vel em `http://localhost:3000`
 
 ### Scripts
 
-| Comando | DescriÃ§Ã£o |
+| Comando | DescriêÂ§êÂ£o |
 |---------|-----------|
 | `pnpm dev:web` | Inicia em desenvolvimento |
-| `pnpm build` | Build de produÃ§Ã£o |
+| `pnpm build` | Build de produêÂ§êÂ£o |
 | `pnpm lint` | Executa linting |
 
 ---
 
 ## Deploy
 
-O projeto estÃ¡ configurado para deploy automÃ¡tico no Vercel:
+O projeto estêÂ¡ configurado para deploy automêÂ¡tico no Vercel:
 
 1. Push para `main` dispara build
 2. Preview deploys em PRs
-3. ProduÃ§Ã£o: https://ncia-flux.vercel.app
+3. ProduêÂ§êÂ£o: https://ncia-flux.vercel.app
 
 ---
 
 ## Planos de Uso
 
-| Plano | Features | Storage | VersÃ£o |
+| Plano | Features | Storage | VersêÂ£o |
 |-------|----------|---------|--------|
-| **Free** | Funcionalidades pessoais | Local | v1.2 âœ“ |
+| **Free** | Funcionalidades pessoais | Local | v1.2 ê¢Åâ |
 | **Team** | + Times + Chat equipe + P2P | Central + P2P | v1.5 |
 | **Premium** | + Chat IA + Voz + Sync nuvem | Cloud | v2.0 |
-| **Empresarial** | + OrganizaÃ§Ãµes + Apps nativos | Cloud | v3.0 |
+| **Empresarial** | + OrganizaêÂ§êÂµes + Apps nativos | Cloud | v3.0 |
 
 ### Detalhamento dos Planos
 
-**Free (DisponÃ­vel)**
+**Free (DisponêÂ­vel)**
 - Todas as funcionalidades de produtividade pessoal
 - Dados salvos localmente no navegador
 - Multi-perfil no mesmo dispositivo
-- PWA instalÃ¡vel (v1.6)
-- NotificaÃ§Ãµes locais (v1.7)
+- PWA instalêÂ¡vel (v1.6)
+- NotificaêÂ§êÂµes locais (v1.7)
 - Sem limite de uso
 
 **Team (v1.5)**
 - Tudo do Free +
-- CriaÃ§Ã£o e gestÃ£o de times
+- CriaêÂ§êÂ£o e gestêÂ£o de times
 - Chat entre membros da equipe
 - Convites por ID
-- Central de descoberta de usuÃ¡rios
-- ComunicaÃ§Ã£o P2P apÃ³s conexÃ£o
+- Central de descoberta de usuêÂ¡rios
+- ComunicaêÂ§êÂ£o P2P apêÂ³s conexêÂ£o
 - Dashboard do gestor (dados anonimizados)
 
 **Premium (v2.0)**
@@ -451,41 +451,41 @@ O projeto estÃ¡ configurado para deploy automÃ¡tico no Vercel:
 - Chat com IA por texto e voz
 - Assistente contextual inteligente
 - Brain dump por voz
-- SincronizaÃ§Ã£o na nuvem
-- Backup automÃ¡tico
-- IntegraÃ§Ã£o com terapeutas (v1.7)
+- SincronizaêÂ§êÂ£o na nuvem
+- Backup automêÂ¡tico
+- IntegraêÂ§êÂ£o com terapeutas (v1.7)
 
 **Empresarial (v3.0)**
 - Tudo do Premium +
 - Apps nativos iOS e Android
 - Widgets e wearables
-- CriaÃ§Ã£o de organizaÃ§Ãµes
-- API pÃºblica para integraÃ§Ãµes
-- Suporte prioritÃ¡rio
+- CriaêÂ§êÂ£o de organizaêÂ§êÂµes
+- API pêÂºblica para integraêÂ§êÂµes
+- Suporte prioritêÂ¡rio
 - SLA garantido
 
 ---
 
-## DocumentaÃ§Ã£o
+## DocumentaêÂ§êÂ£o
 
-| Documento | DescriÃ§Ã£o |
+| Documento | DescriêÂ§êÂ£o |
 |-----------|-----------|
 | [PRD](docs/prd.md) | Requisitos do produto |
-| [Arquitetura](docs/architecture.md) | Arquitetura tÃ©cnica |
+| [Arquitetura](docs/architecture.md) | Arquitetura têÂ©cnica |
 | [Stories](docs/stories/) | User stories |
 
 ---
 
-## ContribuiÃ§Ã£o
+## ContribuiêÂ§êÂ£o
 
-1. Fork o repositÃ³rio
+1. Fork o repositêÂ³rio
 2. Crie uma branch (`git checkout -b feature/nova-feature`)
 3. Use commits convencionais (`feat:`, `fix:`, `docs:`)
 4. Abra um Pull Request
 
 ---
 
-## LicenÃ§a
+## LicenêÂ§a
 
 MIT
 
@@ -493,12 +493,12 @@ MIT
 
 <div align="center">
 
-Desenvolvido com assistÃªncia de IA usando o [BMad Method](https://github.com/bmad-method)
+Desenvolvido com assistêÂªncia de IA usando o [BMad Method](https://github.com/bmad-method)
 
-**NCIAFlux - NeuroFluxo** | Produtividade que entende vocÃª
+**NCIAFlux - NeuroFluxo** | Produtividade que entende vocêÂª
 
 </div>
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto  - ARCKHÉe

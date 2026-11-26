@@ -124,7 +124,7 @@ export function DiscoveryResultScreen() {
 
         {/* Energy Pattern */}
         <View style={styles.section}>
-          <Text style={styles.sectionTitle}>Padrão de Energia</Text>
+          <Text style={styles.sectionTitle}>Padrêo de Energia</Text>
           <View style={styles.energyGrid}>
             {Object.entries(profile.energy_pattern).map(([time, level]) => (
               <View key={time} style={styles.energyItem}>
@@ -167,7 +167,7 @@ export function DiscoveryResultScreen() {
           <View style={styles.characteristicRow}>
             <View style={styles.characteristicLabel}>
               <Text style={styles.characteristicIcon}>📋</Text>
-              <Text style={styles.characteristicName}>Estilo de execução</Text>
+              <Text style={styles.characteristicName}>Estilo de execuçêo</Text>
             </View>
             <Text style={styles.characteristicValue}>
               {getExecutionStyleLabel(profile.execution_style)}
@@ -211,7 +211,7 @@ export function DiscoveryResultScreen() {
 
         {/* Suggestion */}
         <View style={styles.suggestionCard}>
-          <Text style={styles.suggestionTitle}>💡 Sugestão para você</Text>
+          <Text style={styles.suggestionTitle}>💡 Sugestêo para você</Text>
           <Text style={styles.suggestionText}>{profile.suggestion}</Text>
         </View>
 
@@ -234,7 +234,7 @@ export function DiscoveryResultScreen() {
 
 function getTimeLabel(time: string): string {
   const labels: Record<string, string> = {
-    morning: 'Manhã',
+    morning: 'Manhê',
     afternoon: 'Tarde',
     evening: 'Noite',
     night: 'Madrugada',

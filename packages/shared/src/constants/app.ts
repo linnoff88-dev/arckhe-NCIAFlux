@@ -163,7 +163,7 @@ export const CHECK_IN_PROMPTS = {
   morning: {
     greeting: 'Bom dia! Como você está começando o dia?',
     energy: 'Como está sua energia agora?',
-    intention: 'Qual é sua intenção principal para hoje?',
+    intention: 'Qual é sua intençêo principal para hoje?',
   },
   midday: {
     greeting: 'Como está indo o dia até agora?',
@@ -195,7 +195,7 @@ export const CHECK_IN_RESPONSES = {
   ],
   struggling: [
     'Obrigado por compartilhar. Estou aqui com você.',
-    'Reconhecer como se sente é um passo importante. Você não está sozinho.',
+    'Reconhecer como se sente é um passo importante. Você nêo está sozinho.',
     'Dias difíceis acontecem. Quer que eu sugira algo para ajudar?',
   ],
 } as const;

@@ -42,7 +42,7 @@ const NOTIFICATION_TEMPLATES: Record<NotificationType, { titles: string[]; bodie
     ],
   },
   task_reminder: {
-    titles: ['Lembrete de tarefa', 'Não esqueça!', 'Tarefa pendente'],
+    titles: ['Lembrete de tarefa', 'Nêo esqueça!', 'Tarefa pendente'],
     bodies: [
       'Você tem uma tarefa agendada',
       'Hora de focar na sua próxima tarefa',
@@ -50,7 +50,7 @@ const NOTIFICATION_TEMPLATES: Record<NotificationType, { titles: string[]; bodie
     ],
   },
   focus_start: {
-    titles: ['Hora de focar', 'Bloco de foco', 'Momento de concentração'],
+    titles: ['Hora de focar', 'Bloco de foco', 'Momento de concentraçêo'],
     bodies: [
       'Seu bloco de foco está prestes a começar',
       'Prepare-se para um momento produtivo',
@@ -82,7 +82,7 @@ const NOTIFICATION_TEMPLATES: Record<NotificationType, { titles: string[]; bodie
     ],
   },
   crisis_support: {
-    titles: ['Estamos aqui', 'Apoio disponível', 'Você não está sozinho'],
+    titles: ['Estamos aqui', 'Apoio disponível', 'Você nêo está sozinho'],
     bodies: [
       'O modo crise está disponível se precisar',
       'Respire. Estamos aqui com você.',
@@ -358,7 +358,7 @@ class NotificationService {
   async sendTaskReminder(taskTitle: string): Promise<string | null> {
     return this.sendImmediateNotification('task_reminder', {
       title: 'Lembrete de tarefa',
-      body: `Não esqueça: ${taskTitle}`,
+      body: `Nêo esqueça: ${taskTitle}`,
       data: { taskTitle },
     });
   }

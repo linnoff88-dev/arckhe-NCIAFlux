@@ -43,7 +43,7 @@ const MOCK_TASKS: Task[] = [
   {
     id: '2',
     user_id: '1',
-    title: 'Preparar apresentação',
+    title: 'Preparar apresentaçêo',
     priority: 'high',
     status: 'in_progress',
     category: 'work',
@@ -327,7 +327,7 @@ export function DashboardScreen() {
           <View style={styles.suggestionCard}>
             <Text style={styles.suggestionIcon}>💡</Text>
             <View style={styles.suggestionContent}>
-              <Text style={styles.suggestionTitle}>Sugestão para você</Text>
+              <Text style={styles.suggestionTitle}>Sugestêo para você</Text>
               <Text style={styles.suggestionText}>
                 Com energia baixa, que tal começar com uma tarefa pequena de 10-15 min?
               </Text>

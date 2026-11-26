@@ -7,7 +7,7 @@ Create a mobile-first welcome screen for "NCIAFlux" - a calming ADHD support app
 
 **Brand:**
 - App name: NCIAFlux (subtitle: NeuroFluxo)
-- Tagline: "Autoconhecimento • Adaptação • Sem Pressão"
+- Tagline: "Autoconhecimento • Adaptaçêo • Sem Pressêo"
 - Logo: Abstract flowing brain with colorful lines (use a placeholder)
 
 **Color Palette:**
@@ -44,4 +44,4 @@ Create a mobile-first welcome screen for "NCIAFlux" - a calming ADHD support app
 ## Notas
 - Esta é a primeira tela que o usuário vê
 - Deve transmitir calma e acolhimento
-- Nenhuma pressão para cadastro
+- Nenhuma pressêo para cadastro

@@ -54,7 +54,7 @@ const MOCK_TASKS: TaskItem[] = [
   },
   {
     id: '2',
-    title: 'Reunião de equipe',
+    title: 'Reuniêo de equipe',
     priority: 'high',
     category: 'work',
     status: 'pending',
@@ -373,7 +373,7 @@ export function PlanScreen() {
             <View style={styles.routineHint}>
               <Text style={styles.routineHintText}>
                 💡 Rotinas ajudam a automatizar seu dia. Configure gatilhos por horário
-                ou condição (ex: "quando acordar", "quando energia estiver baixa").
+                ou condiçêo (ex: "quando acordar", "quando energia estiver baixa").
               </Text>
             </View>
           </View>

@@ -42,7 +42,7 @@ const ASSISTANT_RESPONSES: Record<string, string[]> = {
   ],
   help: [
     'Estou aqui para ajudar! O que está te travando agora? Vamos resolver juntos.',
-    'Sem problemas, vamos encontrar uma solução. Me conta o que está acontecendo?',
+    'Sem problemas, vamos encontrar uma soluçêo. Me conta o que está acontecendo?',
     'Respira fundo. Estou aqui. Qual é o maior desafio que você está enfrentando agora?',
   ],
   celebrate: [
@@ -55,7 +55,7 @@ const ASSISTANT_RESPONSES: Record<string, string[]> = {
     '💡 Dica: Quando sentir que está travando, levante e faça 10 polichinelos. Movimento ajuda!',
     '💡 Dica: Divida tarefas grandes em pedaços de 15 minutos. Pequenos passos levam longe.',
     '💡 Dica: Música instrumental ou lo-fi pode ajudar a manter o foco. Quer experimentar?',
-    '💡 Dica: Beba água! Desidratação afeta a concentração mais do que pensamos.',
+    '💡 Dica: Beba água! Desidrataçêo afeta a concentraçêo mais do que pensamos.',
   ],
   default: [
     'Entendi! Como posso te ajudar com isso?',
@@ -148,7 +148,7 @@ export function ChatScreen() {
       category = 'help';
     } else if (lowerMessage.includes('consegu') || lowerMessage.includes('fiz') || lowerMessage.includes('vitória')) {
       category = 'celebrate';
-    } else if (lowerMessage.includes('dica') || lowerMessage.includes('sugestão')) {
+    } else if (lowerMessage.includes('dica') || lowerMessage.includes('sugestêo')) {
       category = 'tip';
     } else if (lowerMessage.includes('check') || lowerMessage.includes('energia') || lowerMessage.includes('como estou')) {
       category = 'checkin';

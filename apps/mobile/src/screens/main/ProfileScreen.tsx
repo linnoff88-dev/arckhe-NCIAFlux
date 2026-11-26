@@ -106,7 +106,7 @@ export function ProfileScreen() {
           <Text style={styles.sectionTitle}>Perfil Cognitivo</Text>
           <View style={styles.profileCard}>
             <View style={styles.profileItem}>
-              <Text style={styles.profileLabel}>Estilo de execução</Text>
+              <Text style={styles.profileLabel}>Estilo de execuçêo</Text>
               <Text style={styles.profileValue}>
                 {MOCK_PROFILE.executionStyle === 'sequential'
                   ? 'Uma tarefa por vez'
@@ -117,7 +117,7 @@ export function ProfileScreen() {
               <Text style={styles.profileLabel}>Melhor horário</Text>
               <Text style={styles.profileValue}>
                 {MOCK_PROFILE.bestFocusTime === 'morning'
-                  ? 'Manhã'
+                  ? 'Manhê'
                   : MOCK_PROFILE.bestFocusTime === 'afternoon'
                   ? 'Tarde'
                   : 'Noite'}

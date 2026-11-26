@@ -68,7 +68,7 @@ const SAMPLE_MEMBERS: TeamMember[] = [
   },
   {
     id: '2',
-    name: 'João Pereira',
+    name: 'Joêo Pereira',
     level: 12,
     role: 'moderator',
     joinedAt: new Date('2024-02-20'),
@@ -109,13 +109,13 @@ const SAMPLE_POSTS: TeamPost[] = [
     id: '1',
     author: SAMPLE_MEMBERS[0],
     content:
-      'Bom dia, time! Lembrete: nosso desafio semanal termina amanhã. Quem ainda não completou as tarefas, bora lá! 💪',
+      'Bom dia, time! Lembrete: nosso desafio semanal termina amanhê. Quem ainda nêo completou as tarefas, bora lá! 💪',
     timestamp: new Date(Date.now() - 1000 * 60 * 60 * 2),
     likes: 12,
     comments: [
       {
         id: 'c1',
-        author: { name: 'João P.', level: 12 },
+        author: { name: 'Joêo P.', level: 12 },
         content: 'Faltam só 2 tarefas pra mim!',
         timestamp: new Date(Date.now() - 1000 * 60 * 30),
       },

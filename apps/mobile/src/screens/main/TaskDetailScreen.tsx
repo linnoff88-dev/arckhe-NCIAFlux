@@ -64,8 +64,8 @@ const MOCK_TASKS: Record<string, TaskData> = {
   },
   '2': {
     id: '2',
-    title: 'Reunião de equipe',
-    description: 'Reunião semanal com a equipe de desenvolvimento para alinhamento.',
+    title: 'Reuniêo de equipe',
+    description: 'Reuniêo semanal com a equipe de desenvolvimento para alinhamento.',
     priority: 'high',
     category: 'work',
     status: 'pending',
@@ -80,7 +80,7 @@ const MOCK_TASKS: Record<string, TaskData> = {
   '3': {
     id: '3',
     title: 'Almoço',
-    description: 'Pausa para alimentação e descanso.',
+    description: 'Pausa para alimentaçêo e descanso.',
     priority: 'medium',
     category: 'health',
     status: 'pending',
@@ -102,14 +102,14 @@ const MOCK_TASKS: Record<string, TaskData> = {
       { id: 's1', title: 'Coletar dados', completed: true },
       { id: 's2', title: 'Criar gráficos', completed: true },
       { id: 's3', title: 'Escrever conclusões', completed: false },
-      { id: 's4', title: 'Revisar formatação', completed: false },
+      { id: 's4', title: 'Revisar formataçêo', completed: false },
     ],
     notes: 'Entregar até sexta-feira.',
   },
   '5': {
     id: '5',
     title: 'Exercício físico',
-    description: 'Sessão de exercícios para manter a saúde.',
+    description: 'Sessêo de exercícios para manter a saúde.',
     priority: 'medium',
     category: 'health',
     status: 'pending',
@@ -150,7 +150,7 @@ export function TaskDetailScreen() {
   // Get task data (mock for now)
   const initialTask = MOCK_TASKS[taskId] || {
     id: taskId,
-    title: 'Tarefa não encontrada',
+    title: 'Tarefa nêo encontrada',
     description: '',
     priority: 'medium' as TaskPriority,
     category: 'other' as TaskCategory,
@@ -294,7 +294,7 @@ export function TaskDetailScreen() {
                 style={styles.editDescriptionInput}
                 value={editedDescription}
                 onChangeText={setEditedDescription}
-                placeholder="Descrição (opcional)"
+                placeholder="Descriçêo (opcional)"
                 placeholderTextColor={COLORS.neutral.textMuted}
                 multiline
               />
@@ -336,7 +336,7 @@ export function TaskDetailScreen() {
             )}
             {task.estimatedMinutes && (
               <View style={styles.metaItem}>
-                <Text style={styles.metaLabel}>Duração</Text>
+                <Text style={styles.metaLabel}>Duraçêo</Text>
                 <Text style={styles.metaValue}>~{task.estimatedMinutes} min</Text>
               </View>
             )}

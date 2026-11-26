@@ -422,8 +422,8 @@ class CommunityService {
     return [
       '🤝 Seja respeitoso e acolhedor com todos os membros',
       '💬 Mantenha as discussões relevantes ao tema do time',
-      '🚫 Não compartilhe informações pessoais sensíveis',
-      '📢 Evite spam e autopromoção excessiva',
+      '🚫 Nêo compartilhe informações pessoais sensíveis',
+      '📢 Evite spam e autopromoçêo excessiva',
       '🆘 Denuncie conteúdo inadequado aos moderadores',
       '💪 Celebre as conquistas dos outros membros',
       '🧠 Lembre-se: estamos todos aprendendo juntos',

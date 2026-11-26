@@ -33,7 +33,7 @@ Create a mobile daily plan screen for "NCIAFlux" ADHD app. This screen shows the
    - Section label: "🎯 Prioridade do Dia"
    - Large card with:
      - Priority title: "Finalizar relatório do projeto"
-     - Status dropdown/chip: "Não iniciado" → "Em progresso" → "Concluído"
+     - Status dropdown/chip: "Nêo iniciado" → "Em progresso" → "Concluído"
      - Optional notes field (collapsed by default)
      - Estimated time: "~2 horas"
    - Card style: white, shadow-md, rounded-2xl, left border accent (primary)
@@ -70,7 +70,7 @@ Create a mobile daily plan screen for "NCIAFlux" ADHD app. This screen shows the
    - Subtle, not prominent
 
 6. **Adjustment Options:**
-   - "🔄 Dia não está bom? Ajustar plano"
+   - "🔄 Dia nêo está bom? Ajustar plano"
    - Opens bottom sheet with quick adjustments
    - Option to activate crisis mode
 
@@ -89,5 +89,5 @@ Create a mobile daily plan screen for "NCIAFlux" ADHD app. This screen shows the
 
 ## Estados
 - Tarefa concluída: checkbox verde, texto com strikethrough sutil
-- Todas concluídas: mensagem de celebração gentil
+- Todas concluídas: mensagem de celebraçêo gentil
 - Prioridade concluída: confete sutil

@@ -45,13 +45,13 @@ Create a mobile cognitive profile screen for "NCIAFlux" ADHD app. This shows the
    - Chips with soft colors, rounded-full
 
 4. **Energy Pattern Visualization:**
-   - "⚡ Seu padrão de energia"
+   - "⚡ Seu padrêo de energia"
    - Simple line chart or bar chart showing energy by time of day:
      - Morning: Low (short bar, muted)
      - Afternoon: Medium (medium bar)
      - Evening: High (tall bar, accent color)
    - Clean, minimal chart design
-   - Labels: "Manhã", "Tarde", "Noite"
+   - Labels: "Manhê", "Tarde", "Noite"
 
 5. **Effective Techniques:**
    - "✅ O que funciona para você"
@@ -65,12 +65,12 @@ Create a mobile cognitive profile screen for "NCIAFlux" ADHD app. This shows the
    - "💡 Insights do seu uso"
    - Cards with discovered patterns:
      - "Você completa mais tarefas quando começa pequeno"
-     - "Terças e quintas são seus dias mais produtivos"
+     - "Terças e quintas sêo seus dias mais produtivos"
      - "Blocos de 25min funcionam melhor que 45min"
    - Show only 2-3, expandable
 
 7. **Profile Evolution:**
-   - "📈 Evolução"
+   - "📈 Evoluçêo"
    - Small timeline or before/after:
      - "Quando começou: energia imprevisível"
      - "Agora: padrões mais claros, técnicas definidas"
@@ -96,5 +96,5 @@ Create a mobile cognitive profile screen for "NCIAFlux" ADHD app. This shows the
 
 ## Nota
 - Este perfil evolui com o uso
-- Não é estático como no resultado inicial
+- Nêo é estático como no resultado inicial
 - Mostra aprendizados do sistema

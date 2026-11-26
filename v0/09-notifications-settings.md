@@ -42,7 +42,7 @@ Create a mobile notification settings screen for "NCIAFlux" ADHD app. This allow
 
    **Mínimo (recommended for start):**
    - "1 lembrete gentil por dia"
-   - "Sem pressão"
+   - "Sem pressêo"
    - Selected state: primary border
 
    **Moderado:**
@@ -50,19 +50,19 @@ Create a mobile notification settings screen for "NCIAFlux" ADHD app. This allow
    - "2-3 por dia"
 
    **Personalizado:**
-   - "Configure cada notificação"
+   - "Configure cada notificaçêo"
    - Opens detailed settings
 
 4. **Time Preference:**
    - "Melhor horário para lembretes"
    - Time picker or preset options:
-     - "Manhã (8h-10h)"
+     - "Manhê (8h-10h)"
      - "Tarde (14h-16h)"
      - "Noite (18h-20h)"
      - "Deixe o app decidir"
 
 5. **Detailed Settings (expandable/collapsible or separate screen):**
-   - Section: "Tipos de notificação"
+   - Section: "Tipos de notificaçêo"
 
    Each notification type as a row:
 
@@ -84,7 +84,7 @@ Create a mobile notification settings screen for "NCIAFlux" ADHD app. This allow
    - "Pílulas ocasionais sobre TDAH"
 
 6. **Preview Section:**
-   - "Como suas notificações vão parecer:"
+   - "Como suas notificações vêo parecer:"
    - Mock notification card showing tone
    - "Oi Ana! Que tal um check-in rápido? 💙"
    - Shows it's friendly, not demanding
@@ -96,7 +96,7 @@ Create a mobile notification settings screen for "NCIAFlux" ADHD app. This allow
 
 8. **Quiet Hours:**
    - "Horários de silêncio"
-   - "Não perturbe entre: [22:00] e [07:00]"
+   - "Nêo perturbe entre: [22:00] e [07:00]"
    - Time range picker
 
 9. **Save Button:**
@@ -113,5 +113,5 @@ Create a mobile notification settings screen for "NCIAFlux" ADHD app. This allow
 ```
 
 ## Princípio Importante
-- Tom das notificações preview: convite, não cobrança
-- Exemplos: "Que tal..." não "Você precisa..."
+- Tom das notificações preview: convite, nêo cobrança
+- Exemplos: "Que tal..." nêo "Você precisa..."

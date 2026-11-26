@@ -33,7 +33,7 @@ const REPORT_TEMPLATES: ReportTemplate[] = [
   {
     id: 'weekly_summary',
     name: 'Resumo Semanal',
-    description: 'Visão geral da sua semana com principais métricas',
+    description: 'Visêo geral da sua semana com principais métricas',
     category: 'overview',
     emoji: '📊',
     isPremium: false,
@@ -86,8 +86,8 @@ const REPORT_TEMPLATES: ReportTemplate[] = [
   },
   {
     id: 'task_completion',
-    name: 'Taxa de Conclusão',
-    description: 'Análise de conclusão de tarefas',
+    name: 'Taxa de Conclusêo',
+    description: 'Análise de conclusêo de tarefas',
     category: 'tasks',
     emoji: '✅',
     isPremium: false,
@@ -133,7 +133,7 @@ const REPORT_TEMPLATES: ReportTemplate[] = [
 
 const CATEGORIES: { value: ReportCategory | 'all'; label: string; emoji: string }[] = [
   { value: 'all', label: 'Todos', emoji: '📑' },
-  { value: 'overview', label: 'Visão Geral', emoji: '📊' },
+  { value: 'overview', label: 'Visêo Geral', emoji: '📊' },
   { value: 'focus', label: 'Foco', emoji: '🎯' },
   { value: 'mood', label: 'Humor', emoji: '😊' },
   { value: 'tasks', label: 'Tarefas', emoji: '✅' },

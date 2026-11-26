@@ -37,8 +37,8 @@ export const CRISIS_MESSAGES = {
   activation: [
     'Está tudo bem.',
     'Hoje é dia de cuidar de você.',
-    'Não precisa fazer nada além de existir.',
-    'Um dia difícil não define você.',
+    'Nêo precisa fazer nada além de existir.',
+    'Um dia difícil nêo define você.',
   ],
   deactivation: [
     'Que bom que você está se sentindo melhor!',

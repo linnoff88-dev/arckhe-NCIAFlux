@@ -7,23 +7,23 @@ export default function TermsPage() {
 
       <div className="bg-white rounded-2xl shadow-sm p-8 prose prose-neutral max-w-none">
         <p className="text-neutral-textSecondary mb-6">
-          Última atualização: Janeiro de 2024
+          Última atualizaçêo: Janeiro de 2024
         </p>
 
         <h2 className="text-xl font-semibold text-neutral-textPrimary mt-8 mb-4">
-          1. Aceitação dos Termos
+          1. Aceitaçêo dos Termos
         </h2>
         <p className="text-neutral-textSecondary mb-4">
           Ao utilizar o NCIAFlux, você concorda com estes termos de uso.
-          Se não concordar, não utilize nossos serviços.
+          Se nêo concordar, nêo utilize nossos serviços.
         </p>
 
         <h2 className="text-xl font-semibold text-neutral-textPrimary mt-8 mb-4">
-          2. Descrição do Serviço
+          2. Descriçêo do Serviço
         </h2>
         <p className="text-neutral-textSecondary mb-4">
           O NCIAFlux é uma plataforma de suporte para pessoas com TDAH,
-          oferecendo ferramentas de gestão de tarefas, planejamento diário
+          oferecendo ferramentas de gestêo de tarefas, planejamento diário
           e acompanhamento de produtividade.
         </p>
 
@@ -42,11 +42,11 @@ export default function TermsPage() {
         </ul>
 
         <h2 className="text-xl font-semibold text-neutral-textPrimary mt-8 mb-4">
-          4. Limitação de Responsabilidade
+          4. Limitaçêo de Responsabilidade
         </h2>
         <p className="text-neutral-textSecondary mb-4">
-          O NCIAFlux é uma ferramenta de apoio e não substitui acompanhamento
-          médico ou psicológico profissional. Não nos responsabilizamos por
+          O NCIAFlux é uma ferramenta de apoio e nêo substitui acompanhamento
+          médico ou psicológico profissional. Nêo nos responsabilizamos por
           decisões tomadas com base nas informações do aplicativo.
         </p>
 

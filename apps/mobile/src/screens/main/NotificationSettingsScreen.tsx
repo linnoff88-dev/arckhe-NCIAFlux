@@ -156,7 +156,7 @@ export function NotificationSettingsScreen() {
           <>
             {/* Notification Types */}
             <View style={styles.section}>
-              <Text style={styles.sectionTitle}>Tipos de Notificação</Text>
+              <Text style={styles.sectionTitle}>Tipos de Notificaçêo</Text>
               <View style={styles.card}>
                 {renderToggleRow(
                   'Lembretes de Check-in',
@@ -192,7 +192,7 @@ export function NotificationSettingsScreen() {
             <View style={styles.section}>
               <Text style={styles.sectionTitle}>Horário de Silêncio</Text>
               <Text style={styles.sectionDescription}>
-                Nenhuma notificação será enviada durante este período
+                Nenhuma notificaçêo será enviada durante este período
               </Text>
               <View style={styles.card}>
                 <View style={styles.quietHoursRow}>
@@ -349,7 +349,7 @@ export function NotificationSettingsScreen() {
           onPress={() => notificationService.sendCheckInReminder()}
         >
           <Text style={styles.testButtonEmoji}>🔔</Text>
-          <Text style={styles.testButtonText}>Enviar notificação de teste</Text>
+          <Text style={styles.testButtonText}>Enviar notificaçêo de teste</Text>
         </TouchableOpacity>
       </ScrollView>
     </SafeAreaView>

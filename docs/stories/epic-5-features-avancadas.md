@@ -2,7 +2,7 @@
 
 **Objetivo:** Implementar funcionalidades do plano Avançado: relatórios avançados, biblioteca de conteúdo educativo e comunidade.
 
-**Valor de Negócio:** Diferenciação premium com valor real para usuários engajados.
+**Valor de Negócio:** Diferenciaçêo premium com valor real para usuários engajados.
 
 **Dependências:** Epic 1-4
 
@@ -16,7 +16,7 @@
 - [ ] Relatórios avançados acessíveis
 - [ ] Chat por voz funcional
 - [ ] CMS de conteúdo educativo operacional
-- [ ] Comunidade com moderação básica
+- [ ] Comunidade com moderaçêo básica
 
 ---
 
@@ -31,7 +31,7 @@
 - Relatório de padrões de energia
 - Relatório de técnicas eficazes
 - Relatório de tendências semanais/mensais
-- Visualizações visuais, não tabelas
+- Visualizações visuais, nêo tabelas
 
 ---
 
@@ -42,7 +42,7 @@
 **so that** seja ainda mais fácil fazer check-ins.
 
 **Key Tasks:**
-- Botão de voz no chat
+- Botêo de voz no chat
 - Speech-to-text (nativo ou API)
 - Text-to-speech para respostas
 - Funcionar offline com sync
@@ -58,7 +58,7 @@
 **Key Tasks:**
 - Setup Strapi CMS
 - Tela de pílulas educativas
-- Controle de liberação por gestão
+- Controle de liberaçêo por gestêo
 - Progresso de leitura salvo
 
 ---
@@ -70,8 +70,8 @@
 **so that** me sinta menos sozinho na jornada.
 
 **Key Tasks:**
-- Feature toggle pela gestão
+- Feature toggle pela gestêo
 - Feed de comunidade
 - Times temáticos
-- Sistema de moderação básico
+- Sistema de moderaçêo básico
 - Denúncia de conteúdo

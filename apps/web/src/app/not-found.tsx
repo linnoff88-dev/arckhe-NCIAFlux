@@ -6,10 +6,10 @@ export default function NotFound() {
       <div className="text-center">
         <h1 className="text-6xl font-bold text-primary-main mb-4">404</h1>
         <h2 className="text-2xl font-semibold text-neutral-textPrimary mb-4">
-          Página não encontrada
+          Página nêo encontrada
         </h2>
         <p className="text-neutral-textSecondary mb-8">
-          A página que você está procurando não existe ou foi movida.
+          A página que você está procurando nêo existe ou foi movida.
         </p>
         <Link
           href="/"

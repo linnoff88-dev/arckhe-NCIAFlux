@@ -111,7 +111,7 @@ export const ALL_FEATURES: FeatureDefinition[] = [
   {
     id: 'calendar',
     name: 'Calendário',
-    description: 'Visualização de agenda',
+    description: 'Visualizaçêo de agenda',
     category: 'productivity',
     icon: '📆',
     defaultEnabled: true,
@@ -136,7 +136,7 @@ export const ALL_FEATURES: FeatureDefinition[] = [
   },
   {
     id: 'gamification',
-    name: 'Gamificação',
+    name: 'Gamificaçêo',
     description: 'XP, níveis e conquistas',
     category: 'wellbeing',
     icon: '🎮',
@@ -160,8 +160,8 @@ export const ALL_FEATURES: FeatureDefinition[] = [
   },
   {
     id: 'review',
-    name: 'Revisão Semanal',
-    description: 'Reflexão sobre a semana',
+    name: 'Revisêo Semanal',
+    description: 'Reflexêo sobre a semana',
     category: 'wellbeing',
     icon: '📊',
     defaultEnabled: true,
@@ -187,7 +187,7 @@ export const ALL_FEATURES: FeatureDefinition[] = [
   {
     id: 'communities',
     name: 'Comunidades',
-    description: 'Grupos de apoio e discussão',
+    description: 'Grupos de apoio e discussêo',
     category: 'social',
     icon: '👪',
     defaultEnabled: true,
@@ -205,7 +205,7 @@ export const ALL_FEATURES: FeatureDefinition[] = [
   {
     id: 'teams',
     name: 'Times',
-    description: 'Gestão de equipes',
+    description: 'Gestêo de equipes',
     category: 'advanced',
     icon: '👥',
     defaultEnabled: true,

@@ -50,7 +50,7 @@ export function WelcomeScreen() {
 
         {/* Footer */}
         <Text style={styles.footer}>
-          Gratuito. Sem cartão. Sem julgamentos.
+          Gratuito. Sem cartêo. Sem julgamentos.
         </Text>
       </View>
     </SafeAreaView>

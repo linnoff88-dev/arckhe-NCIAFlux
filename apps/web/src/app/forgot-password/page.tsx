@@ -78,7 +78,7 @@ export default function ForgotPasswordPage() {
                 disabled={isLoading}
                 className="w-full bg-primary-main text-white py-3 rounded-lg font-semibold hover:bg-primary-dark transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                {isLoading ? 'Enviando...' : 'Enviar link de recuperação'}
+                {isLoading ? 'Enviando...' : 'Enviar link de recuperaçêo'}
               </button>
             </form>
           )}

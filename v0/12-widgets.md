@@ -102,7 +102,7 @@ Create mobile widget designs for "NCIAFlux" ADHD app. These are home screen widg
   - 2 secondary tasks with checkboxes
 
   **Focus:**
-  - "Foco: Não iniciado" or time if active
+  - "Foco: Nêo iniciado" or time if active
   - Small play button
 
   **Energy:**
@@ -159,7 +159,7 @@ Create mobile widget designs for "NCIAFlux" ADHD app. These are home screen widg
 - Large: 329x345 (iOS)
 ```
 
-## Notas de Implementação
+## Notas de Implementaçêo
 - Widgets usam dados em cache
 - Ações sincronizam quando possível
-- Não dependem de conexão para exibir
+- Nêo dependem de conexêo para exibir

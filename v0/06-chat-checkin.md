@@ -89,6 +89,6 @@ Create a mobile chat/check-in screen for "NCIAFlux" ADHD app. This is a conversa
 ```
 
 ## Tom de Voz (exemplos)
-- "Como você está?" (não "Relate seu status")
-- "Entendo..." (não "Registrado")
-- "Dias assim acontecem" (não "Performance baixa detectada")
+- "Como você está?" (nêo "Relate seu status")
+- "Entendo..." (nêo "Registrado")
+- "Dias assim acontecem" (nêo "Performance baixa detectada")

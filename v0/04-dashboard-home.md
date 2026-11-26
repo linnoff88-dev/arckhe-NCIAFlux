@@ -49,7 +49,7 @@ Create a mobile dashboard/home screen for "NCIAFlux" ADHD support app. This is t
    b) **Focus Status:**
    - Label: "Foco"
    - Visual: Circle icon
-   - Text: "Não iniciado" or time if active
+   - Text: "Nêo iniciado" or time if active
    - Tappable to start focus
 
    c) **Tasks:**
@@ -92,6 +92,6 @@ Create a mobile dashboard/home screen for "NCIAFlux" ADHD support app. This is t
 ```
 
 ## Estados Alternativos
-- Manhã: "Bom dia" + sol icon
+- Manhê: "Bom dia" + sol icon
 - Noite: "Boa noite" + lua icon
 - Modo Crise ativo: interface simplificada

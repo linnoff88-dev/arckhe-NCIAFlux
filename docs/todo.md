@@ -1,8 +1,8 @@
-# MentesBrilhantes (NCIAFlux) - Plano de Ação
+# MentesBrilhantes (NCIAFlux) - Plano de Açêo
 
 **Projeto:** MentesBrilhantes / NCIAFlux (NeuroFluxo)
 **Início:** 23 de Janeiro de 2026
-**Última Atualização:** 24 de Janeiro de 2026
+**Última Atualizaçêo:** 24 de Janeiro de 2026
 **Status:** Web 100% Completo - Pronto para Testes
 
 ---
@@ -51,8 +51,8 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 | Feature | Status | Notas |
 |---------|--------|-------|
 | Chat por Voz | ⬜ 0% | Avançado |
-| Integração WhatsApp | ⬜ 0% | Avançado |
-| Integração Calendários Externos | ⬜ 0% | V2 |
+| Integraçêo WhatsApp | ⬜ 0% | Avançado |
+| Integraçêo Calendários Externos | ⬜ 0% | V2 |
 | Dashboard Profissional | ⬜ 0% | Plano Pro |
 | Sistema de Plugins | ⬜ 0% | V2 |
 
@@ -68,37 +68,37 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 - [x] Brain Dump - Triagem (Hoje/Semana/Delegar/Algum dia)
 - [x] Brain Dump - Top 1 automático
 - [x] Brain Dump - Big Goal
-- [x] Cronotipos - Quiz de identificação (5 perguntas)
-- [x] Cronotipos - 4 tipos (Urso/Golfinho/Coruja/Leão)
+- [x] Cronotipos - Quiz de identificaçêo (5 perguntas)
+- [x] Cronotipos - 4 tipos (Urso/Golfinho/Coruja/Leêo)
 - [x] Cronotipos - Rotinas específicas por tipo
 - [x] Cronotipos - Melhor horário de foco
-- [x] Planner Diário - Visão manhã/tarde/noite
+- [x] Planner Diário - Visêo manhê/tarde/noite
 - [x] Planner Diário - Check-in com humor e sono
-- [x] Planner Diário - Integração com Top 1 do Brain Dump
-- [x] Planner Diário - Navegação por dia
+- [x] Planner Diário - Integraçêo com Top 1 do Brain Dump
+- [x] Planner Diário - Navegaçêo por dia
 - [x] Rotinas - Hub central com estatísticas
 - [x] Rotina Matinal - Construtor visual
-- [x] Rotina Matinal - Condicionais (se/então)
-- [x] Rotina Matinal - Execução passo-a-passo
+- [x] Rotina Matinal - Condicionais (se/entêo)
+- [x] Rotina Matinal - Execuçêo passo-a-passo
 - [x] Rotina Noturna - Construtor visual
 - [x] Rotina Noturna - Top 1 do dia seguinte
-- [x] Sistema de Revisão - Revisão semanal completa
-- [x] Sistema de Revisão - Revisão mensal completa
-- [x] Sistema de Revisão - Energia e produtividade
-- [x] Sistema de Revisão - Histórico de revisões
+- [x] Sistema de Revisêo - Revisêo semanal completa
+- [x] Sistema de Revisêo - Revisêo mensal completa
+- [x] Sistema de Revisêo - Energia e produtividade
+- [x] Sistema de Revisêo - Histórico de revisões
 
-### Sprint 12: Epic 8 - Organização Avançada ✅
+### Sprint 12: Epic 8 - Organizaçêo Avançada ✅
 
 **Meta:** Completar módulos Projetos, Agenda e Notas
 
 - [x] Projetos - CRUD básico (criar, editar, arquivar, excluir)
-- [x] Projetos - Associação com tarefas
-- [x] Projetos - Visão de progresso
+- [x] Projetos - Associaçêo com tarefas
+- [x] Projetos - Visêo de progresso
 - [x] Projetos - Cores e emojis customizáveis
 - [x] Projetos - Detalhe do projeto com tarefas
-- [x] Agenda - Visualização mês/semana/dia
+- [x] Agenda - Visualizaçêo mês/semana/dia
 - [x] Agenda - Eventos independentes
-- [x] Agenda - Integração com tarefas agendadas
+- [x] Agenda - Integraçêo com tarefas agendadas
 - [x] Agenda - Eventos recorrentes
 - [x] Notas - Captura rápida (Inbox)
 - [x] Notas - Pastas organizadas
@@ -107,19 +107,19 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 
 ### Sprint 13: Demo Mode ✅
 
-**Meta:** Login de demonstração para showcase
+**Meta:** Login de demonstraçêo para showcase
 
 - [x] Dados fictícios completos (projetos, tarefas, perfil)
 - [x] Rotinas pré-configuradas
 - [x] Cronotipo definido (Bear)
-- [x] Revisão semanal de exemplo
+- [x] Revisêo semanal de exemplo
 - [x] Banner "Modo Demo" no dashboard
 - [x] CTA "Criar minha conta"
 - [x] Branding atualizado para MentesBrilhantes
 
 ---
 
-## Navegação do Dashboard
+## Navegaçêo do Dashboard
 
 ```
 /dashboard
@@ -161,17 +161,17 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 
 ### Cronotipos (`/dashboard/chronotype`)
 - Quiz de 5 perguntas
-- 4 tipos: Urso 🐻, Golfinho 🐬, Coruja 🦉, Leão 🦁
+- 4 tipos: Urso 🐻, Golfinho 🐬, Coruja 🦉, Leêo 🦁
 - Rotinas específicas por período
 - Melhor horário de foco
 - Pontos fortes e desafios
 
 ### Planner Diário (`/dashboard/planner`)
-- Navegação por data
+- Navegaçêo por data
 - Check-in: humor (5 emojis), qualidade do sono (1-10)
-- Intenção do dia, gratidão
-- 3 blocos: Manhã, Tarde, Noite
-- Integração com Top 1 do Brain Dump
+- Intençêo do dia, gratidêo
+- 3 blocos: Manhê, Tarde, Noite
+- Integraçêo com Top 1 do Brain Dump
 - Barra de progresso
 
 ### Rotinas (`/dashboard/routines`)
@@ -181,15 +181,15 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 
 ### Rotina Matinal (`/dashboard/routines/morning`)
 - Construtor visual de fluxo
-- Steps de ação (com duração)
-- Steps de condição (sim/não branching)
-- Execução passo-a-passo
+- Steps de açêo (com duraçêo)
+- Steps de condiçêo (sim/nêo branching)
+- Execuçêo passo-a-passo
 - Presets de ações comuns
 
 ### Rotina Noturna (`/dashboard/routines/evening`)
 - Mesmo formato da matinal
-- Definição do Top 1 do dia seguinte
-- Foco em desaceleração
+- Definiçêo do Top 1 do dia seguinte
+- Foco em desaceleraçêo
 
 ### Projetos (`/dashboard/projects`)
 - CRUD completo
@@ -209,29 +209,29 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 - 3 visualizações: mês, semana, dia
 - CRUD de eventos
 - Eventos de dia inteiro
-- Repetição: diária, semanal, mensal
+- Repetiçêo: diária, semanal, mensal
 - 8 cores para eventos
-- Integração com tarefas agendadas
+- Integraçêo com tarefas agendadas
 
 ### Notas (`/dashboard/notes`)
 - 3 colunas: pastas, lista, editor
 - Captura rápida (Cmd+Enter)
-- Pastas padrão: Inbox, Ideias, Referência, Arquivo
+- Pastas padrêo: Inbox, Ideias, Referência, Arquivo
 - Pastas customizadas
 - Tags
 - Busca
 - Fixar notas
 
 ### Revisões (`/dashboard/review`)
-- Revisão semanal
+- Revisêo semanal
   - Humor geral
   - Energia (1-5)
   - Produtividade (1-5)
   - Vitórias, desafios, lições
-  - Gratidão
+  - Gratidêo
   - Foco da próxima semana
-- Revisão mensal
-  - Avaliação geral (1-10)
+- Revisêo mensal
+  - Avaliaçêo geral (1-10)
   - Maiores vitórias
   - Áreas para melhorar
   - Hábitos formados
@@ -270,7 +270,7 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 
 ## Documentos do Projeto
 
-| Documento | Status | Localização |
+| Documento | Status | Localizaçêo |
 |-----------|--------|-------------|
 | PRD (v1.2) | ✅ Atualizado | `docs/prd.md` |
 | Arquitetura | ✅ Completo | `docs/architecture.md` |
@@ -284,7 +284,7 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 1. **Testes** - Testar todas as funcionalidades
 2. **Bug fixes** - Corrigir problemas encontrados
 3. **Polish** - Melhorar UX e animações
-4. **Deploy** - Publicar versão beta
+4. **Deploy** - Publicar versêo beta
 5. **Feedback** - Coletar feedback de usuários beta
 
 ---
@@ -294,8 +294,8 @@ Todas as features do Epic 7 e Epic 8 foram implementadas.
 1. **Branding:** MentesBrilhantes (nome do produto)
 2. **Storage:** localStorage para demo/grátis, Supabase para premium
 3. **Demo Mode:** Acesso em /demo com dados de exemplo
-4. **Tom:** Gentil, sem pressão, sem cobrança
-5. **Público:** Qualquer pessoa que precise de organização
+4. **Tom:** Gentil, sem pressêo, sem cobrança
+5. **Público:** Qualquer pessoa que precise de organizaçêo
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Data:** 23 de Janeiro de 2026
 **Elaborado por:** Mary (Business Analyst - BMad Method)
-**Versão:** 1.0
+**Versêo:** 1.0
 
 ---
 
@@ -19,7 +19,7 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 | Métrica | Valor |
 |---------|-------|
 | **Mercado Global 2025** | USD 1.79 - 2.08 bilhões |
-| **Projeção 2033-2035** | USD 7.55 - 11.9 bilhões |
+| **Projeçêo 2033-2035** | USD 7.55 - 11.9 bilhões |
 | **CAGR** | 11.9% - 15.65% |
 | **EUA (2025)** | USD 773 milhões |
 | **Europa (2025)** | USD 623 milhões |
@@ -29,25 +29,25 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 ### 1.2 Segmentos Principais
 
 - **Adultos**: 59% do mercado (USD 1.16 bilhões em 2025)
-- **Modelo de monetização**: 55% por assinatura
+- **Modelo de monetizaçêo**: 55% por assinatura
 - **Preferência**: 62% preferem apps vs métodos tradicionais
 - **Acessibilidade**: 70% via smartphones
 
 ### 1.3 Tendências Tecnológicas (2024-2026)
 
-| Tendência | Adoção |
+| Tendência | Adoçêo |
 |-----------|--------|
-| IA para personalização/hábitos | 58% dos novos apps |
+| IA para personalizaçêo/hábitos | 58% dos novos apps |
 | Voice-to-text e dashboards | 63% dos lançamentos adultos |
-| Gamificação | 35% dos apps 2023-2025 |
-| Integração com wearables | 27% dos desenvolvedores |
+| Gamificaçêo | 35% dos apps 2023-2025 |
+| Integraçêo com wearables | 27% dos desenvolvedores |
 
 ### 1.4 Drivers de Mercado
 
-- Aumento da conscientização e diagnósticos de TDAH
+- Aumento da conscientizaçêo e diagnósticos de TDAH
 - Avanços tecnológicos permitindo apps mais personalizados
-- Crescente aceitação de terapêuticas digitais
-- Penetração de dispositivos móveis
+- Crescente aceitaçêo de terapêuticas digitais
+- Penetraçêo de dispositivos móveis
 - Preferência por soluções baseadas em apps (62%)
 
 ### 1.5 Fontes
@@ -63,7 +63,7 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 ### 2.1 Tier 1 - Líderes de Mercado
 
 #### Inflow (~18% market share)
-- **Foco**: CBT + Educação + Comunidade
+- **Foco**: CBT + Educaçêo + Comunidade
 - **Preço**: $95/ano
 - **Pontos Fortes**:
   - Baseado em CBT (terapia cognitivo-comportamental)
@@ -84,7 +84,7 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
   - IA que quebra tarefas em passos
   - Timer visual diferenciado
   - Mood tracking integrado
-  - Widgets de ação rápida
+  - Widgets de açêo rápida
 - **Pontos Fracos**:
   - Bugs no Apple Watch
   - Mudanças controversas em rotinas
@@ -94,15 +94,15 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 
 | App | Especialidade | Diferencial | Preço |
 |-----|---------------|-------------|-------|
-| **Llama Life** | Single-tasking | "Pomodoro on steroids", gamificação | Trial + Sub |
+| **Llama Life** | Single-tasking | "Pomodoro on steroids", gamificaçêo | Trial + Sub |
 | **Focusmate** | Body doubling | Parceiros reais virtuais | Freemium |
-| **Routinery** | Rotinas | Criação estruturada de hábitos | $3/mês |
-| **Numo** | Gamificação | Karma, Teams, Humor/Memes | $16/mês |
+| **Routinery** | Rotinas | Criaçêo estruturada de hábitos | $3/mês |
+| **Numo** | Gamificaçêo | Karma, Teams, Humor/Memes | $16/mês |
 
 #### Llama Life
 - Criado por pessoa com ADHD
 - Foco em UMA tarefa por vez
-- Gamificação divertida
+- Gamificaçêo divertida
 - Ajuda com time blindness
 - **Fonte**: [Llama Life](https://llamalife.co/)
 
@@ -126,8 +126,8 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 | **TickTick** | To-do list | Começar + manter foco |
 | **Amazing Marvin** | Personalizável | Metodologias variadas |
 | **Sunsama** | Time-blocking | Planejamento realista |
-| **Forest** | Foco | Gamificação visual |
-| **Morgen** | Calendário + IA | Gestão de capacidade |
+| **Forest** | Foco | Gamificaçêo visual |
+| **Morgen** | Calendário + IA | Gestêo de capacidade |
 
 ### 2.4 Fontes Adicionais
 
@@ -146,20 +146,20 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 |----------|---------|---------------|
 | **Sobrecarga visual** | Sensory overload, ASD comórbido | Vários |
 | **Muitos cliques** | Desengajamento (>3 cliques = abandono) | Maioria |
-| **Falta de feedback visual** | Frustração, sem senso de progresso | Muitos |
-| **Baixa personalização** | Não adapta ao usuário | Apps genéricos |
+| **Falta de feedback visual** | Frustraçêo, sem senso de progresso | Muitos |
+| **Baixa personalizaçêo** | Nêo adapta ao usuário | Apps genéricos |
 | **Preços abusivos** | Exclui quem mais precisa | Numo, Inflow |
 | **Conteúdo só em texto** | Exclui disléxicos | Maioria |
-| **Não considera comorbidades** | Dificuldades de aprendizado, ASD | Quase todos |
-| **Workflows monótonos** | Rebelião do cérebro ADHD | Apps de rotina |
+| **Nêo considera comorbidades** | Dificuldades de aprendizado, ASD | Quase todos |
+| **Workflows monótonos** | Rebeliêo do cérebro ADHD | Apps de rotina |
 
-### 3.2 O Que Usuários Querem (e Não Encontram)
+### 3.2 O Que Usuários Querem (e Nêo Encontram)
 
 1. **Ajuda em momentos de crise** - Apps educam bem quem é novo, mas falham em ajudar veteranos em dificuldades
-2. **Variedade** - Repetição causa abandono
-3. **Relaxamento** - Ajuda com hiperatividade, não só produtividade
+2. **Variedade** - Repetiçêo causa abandono
+3. **Relaxamento** - Ajuda com hiperatividade, nêo só produtividade
 4. **Recompensas instantâneas** - Dopamina imediata
-5. **Simplicidade real** - Muitos se dizem simples mas não são
+5. **Simplicidade real** - Muitos se dizem simples mas nêo sêo
 
 ### 3.3 Fontes de Pesquisa
 
@@ -173,26 +173,26 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 
 ### 4.1 O Que o NCIAFlux JÁ TEM de Validado pelo Mercado
 
-| Feature NCIAFlux | Validação de Mercado |
+| Feature NCIAFlux | Validaçêo de Mercado |
 |------------------|---------------------|
 | Descoberta isolada (5-7 min) | ✅ Usuários querem valor imediato sem compromisso |
 | Perfil que evolui automaticamente | ✅ 58% dos apps novos usam IA adaptativa |
-| Não cobra métricas | ✅ Gap enorme - apps são "punitivos" |
-| Tom gentil, não clínico | ✅ Numo prova que humor/leveza funciona |
+| Nêo cobra métricas | ✅ Gap enorme - apps sêo "punitivos" |
+| Tom gentil, nêo clínico | ✅ Numo prova que humor/leveza funciona |
 | 1 prioridade + poucas tarefas | ✅ Single-tasking é tendência (Llama Life) |
 | Painel visual 1-toque | ✅ Tiimo prova que visual funciona |
 | Chat texto/voz opcional | ✅ 63% querem voice features |
-| Rotinas condicionais (se/então) | ✅ Diferencial - poucos oferecem |
+| Rotinas condicionais (se/entêo) | ✅ Diferencial - poucos oferecem |
 
 ### 4.2 Gaps do NCIAFlux vs Mercado (Identificados)
 
 | Feature Ausente | Concorrentes que Têm | Prioridade |
 |-----------------|---------------------|------------|
-| Gamificação/recompensas | Numo, Llama Life, Forest | 🔴 Alta |
+| Gamificaçêo/recompensas | Numo, Llama Life, Forest | 🔴 Alta |
 | Comunidade/body doubling | Inflow, Focusmate, Numo | 🟡 Média |
 | Conteúdo educativo CBT | Inflow | 🟡 Média |
-| Integração com wearables | 27% do mercado | 🟢 Baixa |
-| Widgets de ação rápida | Tiimo | 🔴 Alta |
+| Integraçêo com wearables | 27% do mercado | 🟢 Baixa |
+| Widgets de açêo rápida | Tiimo | 🔴 Alta |
 
 ### 4.3 Diferenciais Únicos do NCIAFlux
 
@@ -200,8 +200,8 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 2. **Tom Brasileiro/Português** - Mercado local mal atendido
 3. **Zero Cobrança de Performance** - Posicionamento anti-burnout
 4. **Preço Acessível** - Oportunidade vs críticas a Numo/Inflow
-5. **Rotinas Condicionais (se/então)** - Feature única
-6. **Adaptação silenciosa** - Perfil evolui sem reperguntar
+5. **Rotinas Condicionais (se/entêo)** - Feature única
+6. **Adaptaçêo silenciosa** - Perfil evolui sem reperguntar
 
 ---
 
@@ -211,28 +211,28 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 
 | Plano | Nome | Público-Alvo |
 |-------|------|--------------|
-| **Gratuito** | Descoberta | Curiosos, validação inicial |
+| **Gratuito** | Descoberta | Curiosos, validaçêo inicial |
 | **Básico** | Essencial | Usuários regulares |
 | **Avançado** | Completo | Power users, comunidade |
 | **Profissional** | Terapêutico | Acompanhamento clínico |
 
-### 5.2 Features por Versão
+### 5.2 Features por Versêo
 
 #### V1 - MVP (Lançamento)
 
 **Gratuito:**
-- Descoberta completa (questionário + perfil + insight + sugestão)
+- Descoberta completa (questionário + perfil + insight + sugestêo)
 - Salvar/compartilhar resultado
 
 **Básico:**
 - Plano personalizado (1 prioridade + 2 tarefas leves)
 - Bloco de foco
-- Rotinas condicionais (se/então)
+- Rotinas condicionais (se/entêo)
 - Técnicas adaptativas (máx 3)
 - Painel visual 1-toque
 - Chat texto
-- Notificações config simples (padrão mínimo)
-- Relatório simples (padrão)
+- Notificações config simples (padrêo mínimo)
+- Relatório simples (padrêo)
 - Widgets 1-toque
 - Micro-recompensas visuais
 - Celebrações de progresso
@@ -245,25 +245,25 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 - Chat voz
 - Notificações avançadas (escolhe cada uma)
 - Biblioteca de relatórios (selecionáveis)
-- Pílulas educativas (liberadas pela gestão)
-- Comunidade (se habilitada pela gestão)
+- Pílulas educativas (liberadas pela gestêo)
+- Comunidade (se habilitada pela gestêo)
 - Times temáticos
 
 **Profissional:**
 - Tudo do Avançado +
-- Vinculação com terapeuta/coach
+- Vinculaçêo com terapeuta/coach
 - Relatórios para profissional
 - Acompanhamento supervisionado
 
 #### V2 - Expansões Futuras
 
-| Feature | Descrição | Plano Alvo |
+| Feature | Descriçêo | Plano Alvo |
 |---------|-----------|------------|
 | Modo trabalho profundo | Sessões longas de foco intenso | Avançado+ |
-| Modo família/casal | Perfis compartilhados, sincronização | Avançado+ |
-| Integração wearables | Dados de sono, atividade física | Avançado+ |
+| Modo família/casal | Perfis compartilhados, sincronizaçêo | Avançado+ |
+| Integraçêo wearables | Dados de sono, atividade física | Avançado+ |
 | Body doubling virtual | Sessões com outros usuários | Avançado+ |
-| Gamificação expandida | Níveis, conquistas, desafios | Todos |
+| Gamificaçêo expandida | Níveis, conquistas, desafios | Todos |
 | IA conversacional avançada | Chat mais inteligente | Avançado+ |
 | Marketplace de técnicas | Usuários compartilham o que funciona | Comunidade |
 
@@ -271,13 +271,13 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 
 #### Notificações
 - **Regra**: Sempre começar no modo mais simples
-- Padrão inicial: Apenas 1 lembrete gentil/dia
+- Padrêo inicial: Apenas 1 lembrete gentil/dia
 - Usuário ATIVA mais se quiser
 - Nunca adicionar sem consentimento
-- Tom: convite, não cobrança
+- Tom: convite, nêo cobrança
 
 #### Relatórios
-- **Regra**: Biblioteca acessível, padrão simples
+- **Regra**: Biblioteca acessível, padrêo simples
 - Relatório simples = default (sempre visível no Básico+)
 - Biblioteca de relatórios avançados (Avançado+)
 - Usuário seleciona quais quer disponíveis
@@ -285,19 +285,19 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 - Nunca empurrar métricas automaticamente
 
 #### Conteúdo Educativo
-- **Regra**: Liberação controlada pela gestão
+- **Regra**: Liberaçêo controlada pela gestêo
 - Tutorial do sistema = sempre disponível (Básico+)
 - Pílulas educativas = liberadas gradualmente
-- Gestão controla o que aparece por plano
+- Gestêo controla o que aparece por plano
 - Pode expandir sem deploy
-- Não sobrecarregar usuário novo
+- Nêo sobrecarregar usuário novo
 
 #### Comunidade
 - **Regra**: Feature premium com toggle
 - Disponível apenas no plano Avançado+
-- Gestão pode habilitar/desabilitar por plano
-- Moderação necessária antes de ativar
-- Não é core do produto (diferencial, não dependência)
+- Gestêo pode habilitar/desabilitar por plano
+- Moderaçêo necessária antes de ativar
+- Nêo é core do produto (diferencial, nêo dependência)
 
 ---
 
@@ -311,13 +311,13 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 ### 6.2 Conceito de Marketing
 - Layout de 3 colunas mostrando as fases
 - Versões: tema claro e tema escuro
-- Taglines: **Autoconhecimento • Adaptação Constante • Sem Pressão**
+- Taglines: **Autoconhecimento • Adaptaçêo Constante • Sem Pressêo**
 - Arquivos:
   - `doc/ChatGPT Image 23 de jan. de 2026, 19_07_40.png` (clara)
   - `doc/ChatGPT Image 23 de jan. de 2026, 19_13_26.png` (escura)
 
 ### 6.3 Referências de UI
-- Dashboards de inspiração (SugarCRM, Twisty, Crextio, etc.)
+- Dashboards de inspiraçêo (SugarCRM, Twisty, Crextio, etc.)
 - Arquivos: `doc/original-*.webp`
 
 ---
@@ -341,23 +341,23 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 | **DESCOBERTA** |||||
 | Questionário 5-7 min | ✅ | ✅ | ✅ | ✅ |
 | Perfil resumido + insight | ✅ | ✅ | ✅ | ✅ |
-| 1 sugestão prática | ✅ | ✅ | ✅ | ✅ |
+| 1 sugestêo prática | ✅ | ✅ | ✅ | ✅ |
 | Salvar/compartilhar resultado | ✅ | ✅ | ✅ | ✅ |
 | **PLANO PERSONALIZADO** |||||
 | 1 prioridade + 2 tarefas leves | ❌ | ✅ | ✅ | ✅ |
 | Bloco de foco | ❌ | ✅ | ✅ | ✅ |
-| Rotinas condicionais (se/então) | ❌ | ✅ | ✅ | ✅ |
+| Rotinas condicionais (se/entêo) | ❌ | ✅ | ✅ | ✅ |
 | Técnicas adaptativas (máx 3) | ❌ | ✅ | ✅ | ✅ |
 | **ACOMPANHAMENTO** |||||
 | Painel visual 1-toque | ❌ | ✅ | ✅ | ✅ |
 | Chat texto (sinais leves) | ❌ | ✅ | ✅ | ✅ |
 | Chat voz | ❌ | ❌ | ✅ | ✅ |
 | **NOTIFICAÇÕES** |||||
-| Config simples (padrão mínimo) | ❌ | ✅ | ✅ | ✅ |
+| Config simples (padrêo mínimo) | ❌ | ✅ | ✅ | ✅ |
 | Config avançada (escolhe cada) | ❌ | ❌ | ✅ | ✅ |
 | Escolha de canal (app/WhatsApp) | ❌ | ✅ | ✅ | ✅ |
 | **RELATÓRIOS** |||||
-| Relatório simples (padrão) | ❌ | ✅ | ✅ | ✅ |
+| Relatório simples (padrêo) | ❌ | ✅ | ✅ | ✅ |
 | Biblioteca de relatórios | ❌ | ❌ | ✅ | ✅ |
 | Relatórios avançados (selecionáveis) | ❌ | ❌ | ✅ | ✅ |
 | **PERFIL ADAPTATIVO** |||||
@@ -368,18 +368,18 @@ Este documento consolida a pesquisa de mercado, análise de concorrentes, gap an
 | Widgets 1-toque | ❌ | ✅ | ✅ | ✅ |
 | Celebrações de progresso | ❌ | ✅ | ✅ | ✅ |
 | Modo crise (rotina mínima) | ❌ | ✅ | ✅ | ✅ |
-| **EDUCAÇÃO** |||||
+| **EDUCAÇêO** |||||
 | Tutorial do sistema | ❌ | ✅ | ✅ | ✅ |
 | Pílulas educativas | ❌ | ❌ | ✅* | ✅ |
 | **COMUNIDADE** |||||
 | Acesso à comunidade | ❌ | ❌ | ✅* | ✅ |
 | Times temáticos | ❌ | ❌ | ✅* | ✅ |
 | **PROFISSIONAL** |||||
-| Vinculação com terapeuta/coach | ❌ | ❌ | ❌ | ✅ |
+| Vinculaçêo com terapeuta/coach | ❌ | ❌ | ❌ | ✅ |
 | Relatórios para profissional | ❌ | ❌ | ❌ | ✅ |
 | Acompanhamento supervisionado | ❌ | ❌ | ❌ | ✅ |
 
-*✅\* = Pode ser liberado ou não conforme decisão da gestão*
+*✅\* = Pode ser liberado ou nêo conforme decisêo da gestêo*
 
 ---
 

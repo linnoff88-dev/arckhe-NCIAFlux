@@ -368,7 +368,7 @@ export default function LoginPage() {
 
           <div className="mt-6 text-center">
             <p className="text-neutral-textSecondary">
-              Não tem uma conta?{' '}
+              Nêo tem uma conta?{' '}
               <Link href="/register" className="text-primary-main font-medium hover:underline">
                 Criar conta
               </Link>

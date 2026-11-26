@@ -31,7 +31,7 @@ Create a mobile questionnaire screen for an ADHD app called "NCIAFlux". This is 
 2. **Question Area:**
    - Icon/illustration related to question (simple, outlined style)
    - Question text: "Como está sua energia ao longo do dia?" (24px, Nunito bold, centered)
-   - Helper text: "Escolha a opção que mais combina com você" (14px, secondary color)
+   - Helper text: "Escolha a opçêo que mais combina com você" (14px, secondary color)
 
 3. **Answer Cards (4 options, vertical stack):**
    Each card should have:
@@ -42,10 +42,10 @@ Create a mobile questionnaire screen for an ADHD app called "NCIAFlux". This is 
    - On tap: scale down slightly, then highlight with primary color border
 
    Example options:
-   - "🌅 Manhã é meu momento" - "Acordo com energia, depois vai caindo"
+   - "🌅 Manhê é meu momento" - "Acordo com energia, depois vai caindo"
    - "🌙 Sou mais noturno" - "Demoro para engrenar, mas à noite fluo"
    - "🎢 Varia muito" - "Nunca sei como vou estar"
-   - "😴 Sempre cansado" - "Energia baixa é meu padrão"
+   - "😴 Sempre cansado" - "Energia baixa é meu padrêo"
 
 4. **Bottom:**
    - Subtle hint: "Deslize ou toque para responder"
@@ -63,5 +63,5 @@ Create a mobile questionnaire screen for an ADHD app called "NCIAFlux". This is 
 - Criar 4 telas diferentes para cada categoria de pergunta:
   1. Dificuldades atuais
   2. Energia e horários
-  3. Estilo de execução
+  3. Estilo de execuçêo
   4. Sobrecarga percebida

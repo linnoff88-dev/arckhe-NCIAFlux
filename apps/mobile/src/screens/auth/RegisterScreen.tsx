@@ -48,7 +48,7 @@ export function RegisterScreen() {
     }
 
     if (password !== confirmPassword) {
-      Alert.alert('Erro', 'As senhas não conferem.');
+      Alert.alert('Erro', 'As senhas nêo conferem.');
       return;
     }
 
@@ -57,7 +57,7 @@ export function RegisterScreen() {
     try {
       await register(email, password, name);
     } catch (error) {
-      Alert.alert('Erro', 'Não foi possível criar a conta. Tente novamente.');
+      Alert.alert('Erro', 'Nêo foi possível criar a conta. Tente novamente.');
     } finally {
       setIsLoading(false);
     }

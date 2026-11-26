@@ -1,6 +1,6 @@
-# Epic 3: Acompanhamento e Adaptação
+# Epic 3: Acompanhamento e Adaptaçêo
 
-**Objetivo:** Implementar o sistema de acompanhamento gentil com chat, check-ins, notificações e adaptação automática do perfil.
+**Objetivo:** Implementar o sistema de acompanhamento gentil com chat, check-ins, notificações e adaptaçêo automática do perfil.
 
 **Valor de Negócio:** O sistema aprende com o uso e se adapta, tornando a experiência cada vez mais personalizada.
 
@@ -11,10 +11,10 @@
 - [3.2 Sistema de Check-ins](./3.2-sistema-checkins.md)
 - [3.3 Sistema de Notificações Básico](./3.3-notificacoes-basico.md)
 - [3.4 Configurações de Notificações](./3.4-config-notificacoes.md)
-- [3.5 Motor de Adaptação do Perfil](./3.5-motor-adaptacao.md)
+- [3.5 Motor de Adaptaçêo do Perfil](./3.5-motor-adaptacao.md)
 
 **Definition of Done do Epic:**
 - [ ] Chat funcional com quick replies
-- [ ] Check-ins coletam dados sem fricção
+- [ ] Check-ins coletam dados sem fricçêo
 - [ ] Notificações entregues no horário configurado
 - [ ] Perfil adapta automaticamente baseado em uso

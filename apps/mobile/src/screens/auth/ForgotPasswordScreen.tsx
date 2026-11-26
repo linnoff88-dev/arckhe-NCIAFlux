@@ -29,7 +29,7 @@ export function ForgotPasswordScreen() {
     if (isDemoMode || !supabase) {
       Alert.alert(
         'Modo Demo',
-        'Em modo demo, a recuperação de senha não está disponível. Use qualquer email/senha para entrar.'
+        'Em modo demo, a recuperaçêo de senha nêo está disponível. Use qualquer email/senha para entrar.'
       );
       return;
     }
@@ -43,7 +43,7 @@ export function ForgotPasswordScreen() {
 
       setSent(true);
     } catch (error) {
-      Alert.alert('Erro', 'Não foi possível enviar o email. Tente novamente.');
+      Alert.alert('Erro', 'Nêo foi possível enviar o email. Tente novamente.');
     } finally {
       setIsLoading(false);
     }

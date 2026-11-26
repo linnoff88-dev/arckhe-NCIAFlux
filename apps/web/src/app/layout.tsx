@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'NCIAFlux - NeuroFluxo',
-  description: 'Plataforma de suporte para TDAH - Gestão para profissionais e equipes',
+  description: 'Plataforma de suporte para TDAH - Gestêo para profissionais e equipes',
 };
 
 export default function RootLayout({

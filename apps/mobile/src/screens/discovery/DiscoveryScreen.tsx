@@ -24,7 +24,7 @@ const QUESTIONS: DiscoveryQuestion[] = [
     id: '1',
     order: 1,
     category: 'energy',
-    question_text: 'Como você geralmente se sente pela manhã?',
+    question_text: 'Como você geralmente se sente pela manhê?',
     question_type: 'single_choice',
     options: [
       { value: 'low', label: 'Difícil acordar, pouca energia', emoji: '😴' },
@@ -40,7 +40,7 @@ const QUESTIONS: DiscoveryQuestion[] = [
     question_text: 'Em que período do dia você se sente mais produtivo?',
     question_type: 'single_choice',
     options: [
-      { value: 'morning', label: 'Manhã' },
+      { value: 'morning', label: 'Manhê' },
       { value: 'afternoon', label: 'Tarde' },
       { value: 'evening', label: 'Noite' },
       { value: 'varies', label: 'Varia muito' },
@@ -112,8 +112,8 @@ const QUESTIONS: DiscoveryQuestion[] = [
     question_type: 'single_choice',
     options: [
       { value: 'yes', label: 'Sim, preciso de cobrança externa' },
-      { value: 'no', label: 'Não, prefiro autonomia' },
-      { value: 'sometimes', label: 'Depende da situação' },
+      { value: 'no', label: 'Nêo, prefiro autonomia' },
+      { value: 'sometimes', label: 'Depende da situaçêo' },
     ],
     required: true,
   },
@@ -121,7 +121,7 @@ const QUESTIONS: DiscoveryQuestion[] = [
     id: '8',
     order: 8,
     category: 'pressure',
-    question_text: 'Como você reage sob pressão/prazos apertados?',
+    question_text: 'Como você reage sob pressêo/prazos apertados?',
     question_type: 'single_choice',
     options: [
       { value: 'thrives', label: 'Me motiva e rendo mais' },
@@ -323,10 +323,10 @@ function getCategoryLabel(category: string): string {
     energy: 'Energia',
     focus: 'Foco',
     distraction: 'Distrações',
-    execution: 'Execução',
+    execution: 'Execuçêo',
     coping: 'Estratégias',
     accountability: 'Responsabilidade',
-    pressure: 'Pressão',
+    pressure: 'Pressêo',
   };
   return labels[category] || category;
 }

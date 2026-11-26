@@ -1,13 +1,13 @@
 # PROJETO – APP DE DESCOBERTA, PLANO E ACOMPANHAMENTO PARA TDAH
 
-## VISÃO GERAL
-Este projeto descreve um aplicativo focado em pessoas com TDAH (ou dificuldades de foco e organização) que funciona em **três camadas claras**:
+## VISêO GERAL
+Este projeto descreve um aplicativo focado em pessoas com TDAH (ou dificuldades de foco e organizaçêo) que funciona em **três camadas claras**:
 
-1. **Descoberta (isolada e opcional)** – gatilho de atenção e entrega de valor imediato
-2. **Plano personalizado** – organização simples e possível
+1. **Descoberta (isolada e opcional)** – gatilho de atençêo e entrega de valor imediato
+2. **Plano personalizado** – organizaçêo simples e possível
 3. **Acompanhamento adaptativo** – ajuste contínuo sem cobrança
 
-O objetivo não é produtividade máxima, mas **autogestão sustentável, consciência e progresso real**.
+O objetivo nêo é produtividade máxima, mas **autogestêo sustentável, consciência e progresso real**.
 
 ---
 
@@ -17,30 +17,30 @@ O objetivo não é produtividade máxima, mas **autogestão sustentável, consci
 A Descoberta é uma **experiência curta, fechada e independente** do app completo.
 
 - Dura de 5 a 7 minutos
-- Não exige compromisso
-- Não exige uso contínuo
+- Nêo exige compromisso
+- Nêo exige uso contínuo
 - Pode ser usada como porta de entrada ou ferramenta única
 
-Ela funciona como um **gatilho de atenção + clareza imediata**.
+Ela funciona como um **gatilho de atençêo + clareza imediata**.
 
 ---
 
 ### 1.2 Objetivo da Descoberta
 - Fazer a pessoa se sentir compreendida
-- Reduzir culpa (“o problema não sou eu”)
+- Reduzir culpa (“o problema nêo sou eu”)
 - Gerar um insight prático e acionável
 
 ---
 
 ### 1.3 Como funciona (fluxo)
 1. Perguntas simples (uma por tela)
-2. Linguagem humana, não clínica
+2. Linguagem humana, nêo clínica
 3. Respostas rápidas (toque / deslizar)
 
 Blocos de perguntas:
 - Principais dificuldades atuais
 - Energia e horários
-- Estilo de execução (guiado vs livre)
+- Estilo de execuçêo (guiado vs livre)
 - Sobrecarga percebida
 
 ---
@@ -50,10 +50,10 @@ Ao final, o usuário recebe:
 
 - **Perfil resumido** (1–2 frases)
 - **Insight central** (clareza emocional)
-- **1 sugestão prática** para aplicar no dia seguinte
+- **1 sugestêo prática** para aplicar no dia seguinte
 
 Exemplo:
-> “Você não precisa de mais disciplina. Precisa de menos decisões por dia.”
+> “Você nêo precisa de mais disciplina. Precisa de menos decisões por dia.”
 
 ---
 
@@ -64,13 +64,13 @@ Após o feedback:
 - Compartilhar
 - Continuar usando o app (opcional)
 
-Nenhuma pressão.
+Nenhuma pressêo.
 
 ---
 
 ## 2. PLANO PERSONALIZADO (USO CONTÍNUO)
 
-### 2.1 Ativação do plano
+### 2.1 Ativaçêo do plano
 Se o usuário opta por continuar:
 
 - O perfil da Descoberta vira o **perfil base**
@@ -84,7 +84,7 @@ O plano é **mínimo e adaptável**:
 - 1 prioridade real
 - 2 tarefas leves
 - 1 bloco de foco
-- Rotina matinal condicional (se/então)
+- Rotina matinal condicional (se/entêo)
 
 ---
 
@@ -103,7 +103,7 @@ As técnicas mudam conforme uso.
 ## 3. ACOMPANHAMENTO (PASSO 4 – COLETA DE SINAIS)
 
 ### 3.1 Princípio
-O acompanhamento **não mede performance**.
+O acompanhamento **nêo mede performance**.
 Ele observa padrões para ajustar o plano.
 
 ---
@@ -116,12 +116,12 @@ Ele observa padrões para ajustar o plano.
 - Design limpo e interativo
 
 Elementos do painel:
-- Prioridade do dia (iniciada / em andamento / não rolou)
+- Prioridade do dia (iniciada / em andamento / nêo rolou)
 - Energia do dia (baixa / média / alta)
-- Foco iniciado (sim / não)
-- Botão de ajuste do plano
+- Foco iniciado (sim / nêo)
+- Botêo de ajuste do plano
 
-Tudo clicável, sem digitação.
+Tudo clicável, sem digitaçêo.
 
 ---
 
@@ -132,10 +132,10 @@ Tudo clicável, sem digitação.
 
 Exemplos de perguntas:
 - “Hoje foi pesado ou leve?”
-- “Quer ajustar amanhã?”
+- “Quer ajustar amanhê?”
 - “O que mais atrapalhou hoje?”
 
-O chat coleta **sinais**, não histórias longas.
+O chat coleta **sinais**, nêo histórias longas.
 
 ---
 
@@ -143,41 +143,41 @@ O chat coleta **sinais**, não histórias longas.
 O usuário escolhe:
 
 - Canal (app, WhatsApp, outro)
-- Horário (manhã, noite, ambos, nenhum)
+- Horário (manhê, noite, ambos, nenhum)
 - Frequência
 
-As mensagens são convites, não cobranças.
+As mensagens sêo convites, nêo cobranças.
 
 ---
 
 ### 3.4 Sinais coletados
 - Início de tarefas
-- Conclusão mínima
+- Conclusêo mínima
 - Energia percebida
 - Ajustes frequentes
-- Horários de melhor adesão
+- Horários de melhor adesêo
 
 Dados simples, binários e leves.
 
 ---
 
-## 4. ATUALIZAÇÃO DO PERFIL (ADAPTATIVO)
+## 4. ATUALIZAÇêO DO PERFIL (ADAPTATIVO)
 
 ### 4.1 Como o perfil evolui
 
 - A descoberta cria o mapa
 - O uso corrige a rota
 
-O perfil **não é refeito** constantemente.
+O perfil **nêo é refeito** constantemente.
 
 ---
 
 ### 4.2 Tipos de ajuste automático
 
-- Redução ou aumento de tarefas
+- Reduçêo ou aumento de tarefas
 - Mudança de horário do foco
 - Troca de técnica
-- Simplificação da rotina
+- Simplificaçêo da rotina
 
 Nada muda tudo de uma vez.
 
@@ -188,19 +188,19 @@ Acontece apenas se:
 
 - O usuário pedir
 - A rotina de vida mudar
-- A adesão cair muito
+- A adesêo cair muito
 
-Nesse caso, só partes da descoberta são refeitas.
+Nesse caso, só partes da descoberta sêo refeitas.
 
 ---
 
 ## 5. DIFERENCIAL DO PRODUTO
 
-- Não é só um planner
-- Não é só um rastreador
-- Não é terapia
+- Nêo é só um planner
+- Nêo é só um rastreador
+- Nêo é terapia
 
-É um **sistema de autogestão gentil para cérebros não lineares**.
+É um **sistema de autogestêo gentil para cérebros nêo lineares**.
 
 ---
 

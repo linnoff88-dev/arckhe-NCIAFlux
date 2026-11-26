@@ -2,7 +2,7 @@
 
 **Objetivo:** Implementar elementos que aumentam engajamento de forma saudável: micro-recompensas, widgets, celebrações e modo crise.
 
-**Valor de Negócio:** Aumenta retenção e satisfação sem criar dependência ou pressão.
+**Valor de Negócio:** Aumenta retençêo e satisfaçêo sem criar dependência ou pressêo.
 
 **Dependências:** Epic 1, Epic 2, Epic 3
 
@@ -13,7 +13,7 @@
 - [4.4 Modo Crise](./4.4-modo-crise.md)
 
 **Definition of Done do Epic:**
-- [ ] Animações de celebração funcionam
+- [ ] Animações de celebraçêo funcionam
 - [ ] Widgets instaláveis e funcionais
 - [ ] Modo crise simplifica interface drasticamente
 - [ ] Nenhum elemento punitivo na UX

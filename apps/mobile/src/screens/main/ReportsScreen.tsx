@@ -47,14 +47,14 @@ const MOCK_INSIGHTS = [
   {
     id: '2',
     emoji: '📊',
-    title: 'Padrão de energia',
+    title: 'Padrêo de energia',
     description: 'Sua energia tende a cair após as 15h',
     type: 'neutral' as const,
   },
   {
     id: '3',
     emoji: '✅',
-    title: 'Taxa de conclusão',
+    title: 'Taxa de conclusêo',
     description: 'Você completou 82% das tarefas planejadas',
     type: 'positive' as const,
   },

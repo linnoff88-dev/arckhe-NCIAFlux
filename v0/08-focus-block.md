@@ -75,7 +75,7 @@ Create a mobile focus timer screen for "NCIAFlux" ADHD app. This is where users 
    - Options:
      - "Fazer pausa (5 min)"
      - "Continuar focando"
-     - "Encerrar sessão"
+     - "Encerrar sessêo"
    - Brain dump review option
 
 **Pause State:**
@@ -95,5 +95,5 @@ Create a mobile focus timer screen for "NCIAFlux" ADHD app. This is where users 
 ## Estados Adicionais
 - Timer ativo (contando)
 - Pausado
-- Sessão completa
+- Sessêo completa
 - Pausa entre sessões

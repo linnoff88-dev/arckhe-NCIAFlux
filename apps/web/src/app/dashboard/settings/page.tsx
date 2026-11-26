@@ -490,7 +490,7 @@ export default function SettingsPage() {
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-neutral-textSecondary mb-2">
-                      Função
+                      Funçêo
                     </label>
                     <select
                       value={settings.role}
@@ -686,7 +686,7 @@ export default function SettingsPage() {
                     })}
                     className="w-full px-4 py-2 rounded-lg border border-neutral-border focus:outline-none focus:ring-2 focus:ring-primary-main bg-white"
                   >
-                    <option value="America/Sao_Paulo">São Paulo (GMT-3)</option>
+                    <option value="America/Sao_Paulo">Sêo Paulo (GMT-3)</option>
                     <option value="America/New_York">New York (GMT-5)</option>
                     <option value="Europe/London">London (GMT+0)</option>
                     <option value="Europe/Paris">Paris (GMT+1)</option>
@@ -716,7 +716,7 @@ export default function SettingsPage() {
                 </div>
 
                 <div>
-                  <h3 className="font-medium text-neutral-textPrimary mb-4">Permissões Padrão</h3>
+                  <h3 className="font-medium text-neutral-textPrimary mb-4">Permissões Padrêo</h3>
                   <div className="space-y-3">
                     <div className="flex items-center justify-between p-3 bg-neutral-background rounded-lg">
                       <span className="text-neutral-textSecondary">Novos membros podem ver relatórios</span>
@@ -1021,7 +1021,7 @@ function PasswordChangeModal({
     }
 
     if (newPassword !== confirmPassword) {
-      setError('As senhas não coincidem.');
+      setError('As senhas nêo coincidem.');
       return;
     }
 
@@ -1203,7 +1203,7 @@ function PhotoChangeModal({
           </div>
 
           <p className="text-xs text-neutral-textMuted text-center mt-4">
-            Modo Demo: Em produção, você poderia fazer upload de uma foto real.
+            Modo Demo: Em produçêo, você poderia fazer upload de uma foto real.
           </p>
         </div>
       </div>

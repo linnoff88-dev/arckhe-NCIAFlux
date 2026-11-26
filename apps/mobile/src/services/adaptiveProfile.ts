@@ -300,7 +300,7 @@ class AdaptiveProfileService {
       type: 'best_focus_time',
       title: 'Melhor horário para foco',
       description: `Você completa ${Math.round(bestRate * 100)}% das sessões de foco neste período`,
-      currentValue: 'Não definido',
+      currentValue: 'Nêo definido',
       suggestedValue: timeRange,
       confidence,
       dataPoints: completedSessions.length,
@@ -330,9 +330,9 @@ class AdaptiveProfileService {
     return {
       id: `focus_duration_${Date.now()}`,
       type: 'focus_duration',
-      title: 'Duração ideal de foco',
+      title: 'Duraçêo ideal de foco',
       description: `Você mantém foco sem interrupções por aproximadamente ${avgMinutes} minutos`,
-      currentValue: 'Padrão do sistema',
+      currentValue: 'Padrêo do sistema',
       suggestedValue: `${suggestedMinutes} minutos`,
       confidence,
       dataPoints: completedSessions.length,
@@ -450,7 +450,7 @@ class AdaptiveProfileService {
     }
 
     const periodNames: Record<string, string> = {
-      morning: 'Manhã',
+      morning: 'Manhê',
       afternoon: 'Tarde',
       evening: 'Noite',
       night: 'Madrugada',
@@ -463,7 +463,7 @@ class AdaptiveProfileService {
       type: 'energy_pattern',
       title: 'Pico de energia',
       description: `Sua energia é maior no período da ${periodNames[peakPeriod]}`,
-      currentValue: 'Padrão estimado',
+      currentValue: 'Padrêo estimado',
       suggestedValue: periodNames[peakPeriod],
       confidence,
       dataPoints: this.behaviorData.checkIns.length,
@@ -474,8 +474,8 @@ class AdaptiveProfileService {
   }
 
   private getTimeRange(hour: number): string {
-    if (hour >= 6 && hour < 9) return 'Manhã cedo (6h-9h)';
-    if (hour >= 9 && hour < 12) return 'Manhã (9h-12h)';
+    if (hour >= 6 && hour < 9) return 'Manhê cedo (6h-9h)';
+    if (hour >= 9 && hour < 12) return 'Manhê (9h-12h)';
     if (hour >= 12 && hour < 14) return 'Início da tarde (12h-14h)';
     if (hour >= 14 && hour < 17) return 'Tarde (14h-17h)';
     if (hour >= 17 && hour < 20) return 'Fim da tarde (17h-20h)';

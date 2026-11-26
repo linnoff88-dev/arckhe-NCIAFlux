@@ -36,7 +36,7 @@ Create a mobile results screen for "NCIAFlux" ADHD app. This screen shows the us
 3. **Insight Card:**
    - Quote-style design with left border accent (secondary color)
    - Label: "💡 Seu Insight Principal"
-   - Insight text: "Você não é preguiçoso - seu cérebro precisa de interesse para ativar. Tarefas 'chatas' drenam você 10x mais que os outros."
+   - Insight text: "Você nêo é preguiçoso - seu cérebro precisa de interesse para ativar. Tarefas 'chatas' drenam você 10x mais que os outros."
    - Typography: 16px, italic feel, warm tone
 
 4. **Suggestion Card:**
@@ -67,4 +67,4 @@ Create a mobile results screen for "NCIAFlux" ADHD app. This screen shows the us
 ## Notas
 - Esta tela entrega o valor principal do app gratuito
 - Deve fazer o usuário se sentir compreendido
-- Botão de sair sem pressão é importante
+- Botêo de sair sem pressêo é importante

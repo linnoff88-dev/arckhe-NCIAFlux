@@ -7,7 +7,7 @@ export default function PrivacyPage() {
 
       <div className="bg-white rounded-2xl shadow-sm p-8 prose prose-neutral max-w-none">
         <p className="text-neutral-textSecondary mb-6">
-          Última atualização: Janeiro de 2024
+          Última atualizaçêo: Janeiro de 2024
         </p>
 
         <h2 className="text-xl font-semibold text-neutral-textPrimary mt-8 mb-4">
@@ -27,15 +27,15 @@ export default function PrivacyPage() {
         <ul className="list-disc list-inside text-neutral-textSecondary mb-4 space-y-2">
           <li>Fornecer e manter nossos serviços</li>
           <li>Personalizar sua experiência no aplicativo</li>
-          <li>Enviar notificações relevantes (com sua permissão)</li>
+          <li>Enviar notificações relevantes (com sua permissêo)</li>
           <li>Melhorar nossos serviços</li>
         </ul>
 
         <h2 className="text-xl font-semibold text-neutral-textPrimary mt-8 mb-4">
-          3. Proteção de Dados
+          3. Proteçêo de Dados
         </h2>
         <p className="text-neutral-textSecondary mb-4">
-          Seus dados são armazenados de forma segura e não são compartilhados
+          Seus dados sêo armazenados de forma segura e nêo sêo compartilhados
           com terceiros sem seu consentimento explícito.
         </p>
 

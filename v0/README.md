@@ -5,7 +5,7 @@ Esta pasta contém prompts otimizados para gerar as telas do NCIAFlux no [v0.dev
 ## Como Usar
 
 1. Acesse [v0.dev](https://v0.dev)
-2. Copie o conteúdo da seção "Prompt" de cada arquivo
+2. Copie o conteúdo da seçêo "Prompt" de cada arquivo
 3. Cole no v0.dev e gere
 4. Itere conforme necessário
 
@@ -75,17 +75,17 @@ Esta pasta contém prompts otimizados para gerar as telas do NCIAFlux no [v0.dev
 
 ## Princípios de Design
 
-1. **Calma sobre Produtividade** - Sem urgência, sem pressão
-2. **Menos é Mais** - Uma ação por tela
+1. **Calma sobre Produtividade** - Sem urgência, sem pressêo
+2. **Menos é Mais** - Uma açêo por tela
 3. **Feedback Gentil** - Celebrar, nunca punir
 4. **Acessível** - WCAG 2.1 AA, considerar neurodivergência
 
-## Ordem Sugerida de Geração
+## Ordem Sugerida de Geraçêo
 
 1. Welcome Screen (valida paleta e tom)
 2. Discovery Questionnaire (valida interações)
-3. Discovery Result (valida cards e celebração)
-4. Dashboard Home (valida navegação)
+3. Discovery Result (valida cards e celebraçêo)
+4. Dashboard Home (valida navegaçêo)
 5. Demais telas conforme necessidade
 
 ---

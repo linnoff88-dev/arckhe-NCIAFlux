@@ -36,7 +36,7 @@ Create a mobile reports library screen for "NCIAFlux" ADHD app (Advanced plan). 
 
 3. **Report Categories:**
 
-   **Seção: Padrões de Energia**
+   **Seçêo: Padrões de Energia**
    - Card: "Energia ao longo do dia"
      - Icon: ⚡
      - Description: "Veja seus horários de pico"
@@ -47,7 +47,7 @@ Create a mobile reports library screen for "NCIAFlux" ADHD app (Advanced plan). 
      - Icon: 📅
      - Description: "Descubra seus melhores dias"
 
-   **Seção: Foco e Tarefas**
+   **Seçêo: Foco e Tarefas**
    - Card: "Blocos de foco"
      - Icon: ⏱️
      - Description: "Quanto você tem focado"
@@ -57,10 +57,10 @@ Create a mobile reports library screen for "NCIAFlux" ADHD app (Advanced plan). 
      - Icon: 🎯
      - Description: "O que está dando certo"
 
-   **Seção: Padrões Gerais**
+   **Seçêo: Padrões Gerais**
    - Card: "Resumo semanal"
      - Icon: 📈
-     - Description: "Visão geral da sua semana"
+     - Description: "Visêo geral da sua semana"
      - Default/simple report
 
    - Card: "Tendências do mês"
@@ -90,7 +90,7 @@ Create a mobile reports library screen for "NCIAFlux" ADHD app (Advanced plan). 
 7. **Privacy Note:**
    - Small footer text:
    - "🔒 Seus dados ficam no seu dispositivo"
-   - "Relatórios são só para você"
+   - "Relatórios sêo só para você"
 
 **Report Detail Screen (when tapped):**
 - Full visualization
@@ -103,6 +103,6 @@ Create a mobile reports library screen for "NCIAFlux" ADHD app (Advanced plan). 
 ```
 
 ## Princípio
-- Relatórios mostram padrões, não produtividade
-- "Seus melhores horários" não "Suas horas trabalhadas"
-- Insights em linguagem humana, não só gráficos
+- Relatórios mostram padrões, nêo produtividade
+- "Seus melhores horários" nêo "Suas horas trabalhadas"
+- Insights em linguagem humana, nêo só gráficos

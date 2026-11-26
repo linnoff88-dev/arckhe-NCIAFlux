@@ -51,7 +51,7 @@ export default function RegisterPage() {
     }
 
     if (formData.password !== formData.confirmPassword) {
-      setError('As senhas não coincidem.');
+      setError('As senhas nêo coincidem.');
       setIsLoading(false);
       return;
     }

@@ -7,8 +7,8 @@ import { HelpContent } from '@/components/HelpButton';
 export const helpContent: Record<string, HelpContent> = {
   dashboard: {
     title: 'Dashboard Principal',
-    description: 'O Dashboard é sua central de comando pessoal. Aqui você tem uma visão geral do seu dia, suas tarefas prioritárias, seu progresso e insights personalizados baseados no seu perfil TDAH.',
-    objective: 'Fornecer uma visão rápida e clara do seu dia, ajudando você a manter o foco no que é importante sem sobrecarregar com informações.',
+    description: 'O Dashboard é sua central de comando pessoal. Aqui você tem uma visêo geral do seu dia, suas tarefas prioritárias, seu progresso e insights personalizados baseados no seu perfil TDAH.',
+    objective: 'Fornecer uma visêo rápida e clara do seu dia, ajudando você a manter o foco no que é importante sem sobrecarregar com informações.',
     howItWorks: [
       'Visualize suas tarefas do dia organizadas por prioridade',
       'Acompanhe seu progresso diário com métricas visuais',
@@ -17,38 +17,38 @@ export const helpContent: Record<string, HelpContent> = {
     ],
     tips: [
       'Comece o dia revisando apenas as 3 tarefas mais importantes',
-      'Use o modo foco quando precisar de concentração',
+      'Use o modo foco quando precisar de concentraçêo',
       'Faça pausas regulares - seu cérebro agradece!',
     ],
-    features: ['Visão do dia', 'Tarefas prioritárias', 'Progresso visual', 'Insights personalizados'],
+    features: ['Visêo do dia', 'Tarefas prioritárias', 'Progresso visual', 'Insights personalizados'],
   },
 
   tasks: {
     title: 'Gerenciador de Tarefas',
-    description: 'O Gerenciador de Tarefas foi pensado especialmente para mentes TDAH. Sem listas infinitas ou pressão - apenas o que você precisa fazer, organizado de forma clara e gentil.',
-    objective: 'Ajudar você a organizar suas tarefas de forma que funcione com seu cérebro, não contra ele. Foco em poucas tarefas por vez, sem sobrecarga.',
+    description: 'O Gerenciador de Tarefas foi pensado especialmente para mentes TDAH. Sem listas infinitas ou pressêo - apenas o que você precisa fazer, organizado de forma clara e gentil.',
+    objective: 'Ajudar você a organizar suas tarefas de forma que funcione com seu cérebro, nêo contra ele. Foco em poucas tarefas por vez, sem sobrecarga.',
     howItWorks: [
       'Adicione tarefas com título, prioridade e prazo opcional',
       'Organize por projetos ou contextos',
       'Marque como concluída e ganhe XP',
-      'Tarefas atrasadas são tratadas com gentileza, sem culpa',
+      'Tarefas atrasadas sêo tratadas com gentileza, sem culpa',
     ],
     tips: [
       'Quebre tarefas grandes em pequenos passos',
       'Use emojis para tornar as tarefas mais visuais',
-      'Não adicione mais de 5 tarefas para um único dia',
+      'Nêo adicione mais de 5 tarefas para um único dia',
       'Celebre cada tarefa concluída!',
     ],
-    features: ['Prioridades visuais', 'Projetos', 'Subtarefas', 'Recompensas XP', 'Sem punição por atrasos'],
+    features: ['Prioridades visuais', 'Projetos', 'Subtarefas', 'Recompensas XP', 'Sem puniçêo por atrasos'],
   },
 
   focus: {
     title: 'Timer de Foco',
-    description: 'O Timer de Foco usa técnicas como Pomodoro adaptadas para TDAH. Períodos curtos de concentração com pausas obrigatórias para manter sua energia mental.',
-    objective: 'Ajudar você a entrar e manter o estado de foco sem esgotamento, respeitando os limites naturais de atenção.',
+    description: 'O Timer de Foco usa técnicas como Pomodoro adaptadas para TDAH. Períodos curtos de concentraçêo com pausas obrigatórias para manter sua energia mental.',
+    objective: 'Ajudar você a entrar e manter o estado de foco sem esgotamento, respeitando os limites naturais de atençêo.',
     howItWorks: [
       'Escolha uma tarefa para focar',
-      'Inicie o timer (padrão: 25 minutos)',
+      'Inicie o timer (padrêo: 25 minutos)',
       'Trabalhe sem interrupções até o alarme',
       'Faça uma pausa obrigatória',
       'Repita conforme sua energia permitir',
@@ -57,14 +57,14 @@ export const helpContent: Record<string, HelpContent> = {
       'Comece com sessões de 15 minutos se 25 parecer muito',
       'Use fones de ouvido com música ou ruído branco',
       'Deixe o celular em outro cômodo durante o foco',
-      'Não pule as pausas - elas são parte do processo!',
+      'Nêo pule as pausas - elas sêo parte do processo!',
     ],
-    features: ['Timer personalizável', 'Pausas guiadas', 'Estatísticas de foco', 'Integração com tarefas'],
+    features: ['Timer personalizável', 'Pausas guiadas', 'Estatísticas de foco', 'Integraçêo com tarefas'],
   },
 
   checkin: {
     title: 'Check-in Diário',
-    description: 'O Check-in é um momento de conexão consigo mesmo. Em poucos segundos, você registra como está se sentindo e o que pretende focar hoje.',
+    description: 'O Check-in é um momento de conexêo consigo mesmo. Em poucos segundos, você registra como está se sentindo e o que pretende focar hoje.',
     objective: 'Criar consciência sobre seu estado emocional e mental, ajudando o app a se adaptar às suas necessidades do momento.',
     howItWorks: [
       'Responda como você está se sentindo (1-5)',
@@ -74,7 +74,7 @@ export const helpContent: Record<string, HelpContent> = {
     ],
     tips: [
       'Faça o check-in logo ao acordar',
-      'Seja honesto - não existe resposta errada',
+      'Seja honesto - nêo existe resposta errada',
       'Use os check-ins para identificar padrões ao longo do tempo',
       'Se estiver em um dia difícil, o app vai pegar leve com você',
     ],
@@ -94,18 +94,18 @@ export const helpContent: Record<string, HelpContent> = {
     tips: [
       'Coloque tarefas difíceis no seu horário de pico de energia',
       'Deixe espaços vazios para imprevistos',
-      'Não planeje mais de 4-5 horas de trabalho focado',
+      'Nêo planeje mais de 4-5 horas de trabalho focado',
       'Inclua tempo para transições entre atividades',
     ],
-    features: ['Blocos de tempo', 'Sugestões por cronotipo', 'Arrastar e soltar', 'Integração com calendário'],
+    features: ['Blocos de tempo', 'Sugestões por cronotipo', 'Arrastar e soltar', 'Integraçêo com calendário'],
   },
 
   calendar: {
     title: 'Calendário',
-    description: 'Visualize seus compromissos e prazos em formato de calendário. Integrado com suas tarefas e rotinas para uma visão completa.',
+    description: 'Visualize seus compromissos e prazos em formato de calendário. Integrado com suas tarefas e rotinas para uma visêo completa.',
     objective: 'Dar visibilidade clara do que está por vir, evitando surpresas e ajudando no planejamento.',
     howItWorks: [
-      'Veja compromissos em visão diária, semanal ou mensal',
+      'Veja compromissos em visêo diária, semanal ou mensal',
       'Tarefas com prazo aparecem automaticamente',
       'Adicione eventos diretamente no calendário',
       'Receba lembretes antes dos compromissos',
@@ -115,23 +115,23 @@ export const helpContent: Record<string, HelpContent> = {
       'Bloqueie tempo para você mesmo',
       'Revise a semana todo domingo',
     ],
-    features: ['Múltiplas visualizações', 'Cores personalizadas', 'Lembretes', 'Integração com tarefas'],
+    features: ['Múltiplas visualizações', 'Cores personalizadas', 'Lembretes', 'Integraçêo com tarefas'],
   },
 
   crisis: {
     title: 'Modo Crise',
-    description: 'O Modo Crise é seu botão de emergência para dias muito difíceis. Quando tudo parece demais, ele simplifica tudo e foca apenas no essencial.',
-    objective: 'Fornecer suporte imediato em momentos de sobrecarga, reduzindo estímulos e oferecendo orientação passo a passo.',
+    description: 'O Modo Crise é seu botêo de emergência para dias muito difíceis. Quando tudo parece demais, ele simplifica tudo e foca apenas no essencial.',
+    objective: 'Fornecer suporte imediato em momentos de sobrecarga, reduzindo estímulos e oferecendo orientaçêo passo a passo.',
     howItWorks: [
       'Ative quando estiver sobrecarregado',
       'O app entra em modo simplificado',
       'Mostra apenas 1 tarefa por vez',
-      'Oferece exercícios de respiração e grounding',
-      'Desativa notificações não essenciais',
+      'Oferece exercícios de respiraçêo e grounding',
+      'Desativa notificações nêo essenciais',
     ],
     tips: [
-      'Não tenha vergonha de usar - é para isso que existe',
-      'Use os exercícios de respiração mesmo fora de crise',
+      'Nêo tenha vergonha de usar - é para isso que existe',
+      'Use os exercícios de respiraçêo mesmo fora de crise',
       'Avise alguém de confiança se precisar de apoio',
       'Depois da crise, descanse antes de voltar à rotina',
     ],
@@ -149,7 +149,7 @@ export const helpContent: Record<string, HelpContent> = {
       'O app se adapta baseado nas suas respostas',
     ],
     tips: [
-      'Responda com base no que você realmente faz, não no que gostaria',
+      'Responda com base no que você realmente faz, nêo no que gostaria',
       'Pode refazer a descoberta a qualquer momento',
       'Seu perfil evolui conforme você usa o app',
     ],
@@ -167,16 +167,16 @@ export const helpContent: Record<string, HelpContent> = {
       'Ajusta lembretes e sugestões ao seu ritmo',
     ],
     tips: [
-      'Respeite seu cronotipo - não lute contra ele',
+      'Respeite seu cronotipo - nêo lute contra ele',
       'Tarefas criativas no pico, administrativas na baixa',
       'Durma e acorde em horários consistentes',
     ],
-    features: ['Identificação de cronotipo', 'Mapa de energia', 'Sugestões de horários', 'Gráficos de padrões'],
+    features: ['Identificaçêo de cronotipo', 'Mapa de energia', 'Sugestões de horários', 'Gráficos de padrões'],
   },
 
   routines: {
     title: 'Rotinas',
-    description: 'Rotinas são sequências de pequenas ações que, quando automatizadas, liberam energia mental para o que realmente importa.',
+    description: 'Rotinas sêo sequências de pequenas ações que, quando automatizadas, liberam energia mental para o que realmente importa.',
     objective: 'Criar hábitos automáticos que reduzem a necessidade de decisões e aumentam a consistência.',
     howItWorks: [
       'Crie rotinas matinais e noturnas',
@@ -187,28 +187,28 @@ export const helpContent: Record<string, HelpContent> = {
     tips: [
       'Comece com rotinas de apenas 3-5 itens',
       'Vincule novos hábitos a ações existentes',
-      'Seja flexível - rotinas são guias, não prisões',
-      'Celebre a consistência, não a perfeição',
+      'Seja flexível - rotinas sêo guias, nêo prisões',
+      'Celebre a consistência, nêo a perfeiçêo',
     ],
     features: ['Rotina matinal', 'Rotina noturna', 'Checklists visuais', 'Rastreamento de consistência'],
   },
 
   'brain-dump': {
     title: 'Brain Dump',
-    description: 'O Brain Dump é um espaço para descarregar tudo que está na sua cabeça. Sem julgamento, sem organização - apenas libere os pensamentos.',
+    description: 'O Brain Dump é um espaço para descarregar tudo que está na sua cabeça. Sem julgamento, sem organizaçêo - apenas libere os pensamentos.',
     objective: 'Aliviar a carga mental despejando pensamentos, ideias e preocupações em um lugar seguro.',
     howItWorks: [
       'Escreva tudo que está na sua cabeça',
-      'Não se preocupe com formatação ou organização',
+      'Nêo se preocupe com formataçêo ou organizaçêo',
       'Depois, opcionalmente transforme itens em tarefas',
       'Limpe quando quiser começar de novo',
     ],
     tips: [
       'Faça um brain dump quando se sentir sobrecarregado',
       'Use antes de dormir para esvaziar a mente',
-      'Não edite enquanto escreve - apenas despeje',
+      'Nêo edite enquanto escreve - apenas despeje',
     ],
-    features: ['Escrita livre', 'Conversão em tarefas', 'Histórico', 'Export para notas'],
+    features: ['Escrita livre', 'Conversêo em tarefas', 'Histórico', 'Export para notas'],
   },
 
   notes: {
@@ -226,7 +226,7 @@ export const helpContent: Record<string, HelpContent> = {
       'Capture ideias rapidamente antes que escapem',
       'Revise e limpe notas antigas periodicamente',
     ],
-    features: ['Editor simples', 'Categorias', 'Busca', 'Sincronização'],
+    features: ['Editor simples', 'Categorias', 'Busca', 'Sincronizaçêo'],
   },
 
   projects: {
@@ -234,13 +234,13 @@ export const helpContent: Record<string, HelpContent> = {
     description: 'Projetos agrupam tarefas relacionadas a um objetivo maior. Perfeito para acompanhar progresso em iniciativas de longo prazo.',
     objective: 'Organizar trabalho complexo em partes gerenciáveis e acompanhar progresso geral.',
     howItWorks: [
-      'Crie um projeto com nome e descrição',
+      'Crie um projeto com nome e descriçêo',
       'Adicione tarefas ao projeto',
       'Acompanhe o progresso geral',
       'Defina marcos e celebre ao alcançá-los',
     ],
     tips: [
-      'Não tenha mais de 3 projetos ativos por vez',
+      'Nêo tenha mais de 3 projetos ativos por vez',
       'Quebre projetos grandes em fases',
       'Revise projetos semanalmente',
     ],
@@ -259,16 +259,16 @@ export const helpContent: Record<string, HelpContent> = {
     ],
     tips: [
       'Revise semanalmente para ajustar estratégias',
-      'Foque em tendências, não dias isolados',
+      'Foque em tendências, nêo dias isolados',
       'Use insights para planejar melhor',
     ],
-    features: ['Gráficos visuais', 'Múltiplos períodos', 'Exportação', 'Comparativos'],
+    features: ['Gráficos visuais', 'Múltiplos períodos', 'Exportaçêo', 'Comparativos'],
   },
 
   review: {
-    title: 'Revisão Semanal',
-    description: 'A Revisão Semanal é um momento para refletir sobre a semana, celebrar conquistas e planejar a próxima.',
-    objective: 'Criar um hábito de reflexão que melhora continuamente sua produtividade e bem-estar.',
+    title: 'Revisêo Semanal',
+    description: 'A Revisêo Semanal é um momento para refletir sobre a semana, celebrar conquistas e planejar a próxima.',
+    objective: 'Criar um hábito de reflexêo que melhora continuamente sua produtividade e bem-estar.',
     howItWorks: [
       'Responda perguntas guiadas sobre a semana',
       'Celebre o que deu certo',
@@ -277,10 +277,10 @@ export const helpContent: Record<string, HelpContent> = {
     ],
     tips: [
       'Reserve 15-20 minutos no domingo',
-      'Seja gentil consigo mesmo na reflexão',
+      'Seja gentil consigo mesmo na reflexêo',
       'Anote aprendizados para consultar depois',
     ],
-    features: ['Perguntas guiadas', 'Celebração de conquistas', 'Planejamento', 'Histórico'],
+    features: ['Perguntas guiadas', 'Celebraçêo de conquistas', 'Planejamento', 'Histórico'],
   },
 
   settings: {
@@ -294,53 +294,53 @@ export const helpContent: Record<string, HelpContent> = {
       'Gerencie sua conta e dados',
     ],
     tips: [
-      'Comece com as configurações padrão e ajuste conforme necessário',
-      'Desative notificações que não são úteis',
+      'Comece com as configurações padrêo e ajuste conforme necessário',
+      'Desative notificações que nêo sêo úteis',
       'Revise configurações periodicamente',
     ],
-    features: ['Notificações', 'Aparência', 'Conta', 'Privacidade', 'Exportação de dados'],
+    features: ['Notificações', 'Aparência', 'Conta', 'Privacidade', 'Exportaçêo de dados'],
   },
 
   teams: {
     title: 'Times',
     description: 'Gerencie equipes e acompanhe o progresso coletivo. Ideal para gestores que querem apoiar suas equipes de forma respeitosa.',
-    objective: 'Facilitar a gestão de equipes com foco em apoio e não em vigilância, respeitando a privacidade individual.',
+    objective: 'Facilitar a gestêo de equipes com foco em apoio e nêo em vigilância, respeitando a privacidade individual.',
     howItWorks: [
       'Crie times e convide membros',
-      'Veja métricas agregadas (não individuais)',
+      'Veja métricas agregadas (nêo individuais)',
       'Crie desafios e celebre conquistas coletivas',
       'Membros controlam o que compartilham',
     ],
     tips: [
-      'Foque em apoio, não em controle',
+      'Foque em apoio, nêo em controle',
       'Celebre conquistas do time publicamente',
       'Respeite a privacidade de cada membro',
     ],
-    features: ['Gestão de times', 'Métricas agregadas', 'Desafios', 'Rankings amigáveis', 'Conquistas colaborativas'],
+    features: ['Gestêo de times', 'Métricas agregadas', 'Desafios', 'Rankings amigáveis', 'Conquistas colaborativas'],
   },
 
   gamification: {
-    title: 'Gamificação',
-    description: 'Sistema de recompensas pensado para TDAH. Ganhe XP, suba de nível e desbloqueie conquistas - sem pressão ou punição.',
+    title: 'Gamificaçêo',
+    description: 'Sistema de recompensas pensado para TDAH. Ganhe XP, suba de nível e desbloqueie conquistas - sem pressêo ou puniçêo.',
     objective: 'Tornar o progresso visível e recompensador, usando dopamina a seu favor.',
     howItWorks: [
       'Complete tarefas e ações para ganhar XP',
       'Suba de nível conforme acumula XP',
       'Desbloqueie conquistas por marcos especiais',
-      'Mantenha sequências (sem punição se pausar)',
+      'Mantenha sequências (sem puniçêo se pausar)',
     ],
     tips: [
-      'Não se preocupe com "perder" sequências - elas pausam, não zeram',
-      'Foque no progresso, não na perfeição',
+      'Nêo se preocupe com "perder" sequências - elas pausam, nêo zeram',
+      'Foque no progresso, nêo na perfeiçêo',
       'Celebre cada nível e conquista!',
     ],
-    features: ['Sistema de XP', 'Níveis', '20+ conquistas', 'Sequências gentis', 'Sem punição'],
+    features: ['Sistema de XP', 'Níveis', '20+ conquistas', 'Sequências gentis', 'Sem puniçêo'],
   },
 
   partnerships: {
     title: 'Parcerias',
     description: 'Conecte-se com um parceiro de responsabilidade. Apoiem-se mutuamente, compartilhem conquistas e se motivem.',
-    objective: 'Criar conexão humana que aumenta motivação e responsabilidade de forma gentil.',
+    objective: 'Criar conexêo humana que aumenta motivaçêo e responsabilidade de forma gentil.',
     howItWorks: [
       'Gere um código e compartilhe com alguém',
       'Ou aceite o código de outra pessoa',
@@ -371,7 +371,7 @@ export const helpContent: Record<string, HelpContent> = {
       'Compartilhe suas experiências - ajuda outros',
       'Seja respeitoso com diferentes experiências',
     ],
-    features: ['Grupos temáticos', 'Chat em tempo real', 'Moderação', 'Eventos'],
+    features: ['Grupos temáticos', 'Chat em tempo real', 'Moderaçêo', 'Eventos'],
   },
 
   adaptive: {
@@ -386,16 +386,16 @@ export const helpContent: Record<string, HelpContent> = {
     ],
     tips: [
       'Use o app regularmente para melhores adaptações',
-      'O score de estabilidade não é uma nota - é informação',
-      'Recursos desbloqueiam gradualmente para não sobrecarregar',
+      'O score de estabilidade nêo é uma nota - é informaçêo',
+      'Recursos desbloqueiam gradualmente para nêo sobrecarregar',
     ],
-    features: ['Score de estabilidade', 'Detecção de padrões', 'Desbloqueio progressivo', 'Adaptação automática'],
+    features: ['Score de estabilidade', 'Detecçêo de padrões', 'Desbloqueio progressivo', 'Adaptaçêo automática'],
   },
 
   admin: {
     title: 'Painel Admin',
-    description: 'Área administrativa para gestão de empresas, usuários e times. Acesso restrito a administradores.',
-    objective: 'Fornecer ferramentas de gestão para administradores da plataforma.',
+    description: 'Área administrativa para gestêo de empresas, usuários e times. Acesso restrito a administradores.',
+    objective: 'Fornecer ferramentas de gestêo para administradores da plataforma.',
     howItWorks: [
       'Gerencie empresas cadastradas',
       'Administre usuários e permissões',
@@ -407,7 +407,7 @@ export const helpContent: Record<string, HelpContent> = {
       'Respeite a privacidade dos usuários',
       'Documente alterações importantes',
     ],
-    features: ['Gestão de empresas', 'Gestão de usuários', 'Métricas', 'Configurações'],
+    features: ['Gestêo de empresas', 'Gestêo de usuários', 'Métricas', 'Configurações'],
   },
 };
 

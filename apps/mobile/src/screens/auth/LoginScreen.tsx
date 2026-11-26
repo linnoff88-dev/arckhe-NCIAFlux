@@ -106,7 +106,7 @@ export function LoginScreen() {
           </TouchableOpacity>
 
           <View style={styles.registerLink}>
-            <Text style={styles.registerLinkText}>Não tem conta? </Text>
+            <Text style={styles.registerLinkText}>Nêo tem conta? </Text>
             <TouchableOpacity onPress={() => navigation.navigate('Register')}>
               <Text style={styles.registerLinkAction}>Criar conta</Text>
             </TouchableOpacity>

@@ -1,6 +1,6 @@
 # NCIAFlux UI/UX Specification
 
-**Versão:** 1.0
+**Versêo:** 1.0
 **Data:** 23 de Janeiro de 2026
 **Status:** Draft
 
@@ -8,7 +8,7 @@
 
 ## 1. Introduction
 
-Este documento define os objetivos de experiência do usuário, arquitetura de informação, fluxos de usuário e especificações de design visual para a interface do NCIAFlux. Serve como fundação para o design visual e desenvolvimento frontend, garantindo uma experiência coesa e centrada no usuário.
+Este documento define os objetivos de experiência do usuário, arquitetura de informaçêo, fluxos de usuário e especificações de design visual para a interface do NCIAFlux. Serve como fundaçêo para o design visual e desenvolvimento frontend, garantindo uma experiência coesa e centrada no usuário.
 
 ### 1.1 Overall UX Goals & Principles
 
@@ -16,13 +16,13 @@ Este documento define os objetivos de experiência do usuário, arquitetura de i
 
 **Persona Primária: Ana, 32 anos - Profissional com TDAH**
 - Diagnosticada há 2 anos, ainda aprendendo a lidar
-- Trabalha remotamente, luta com foco e organização
+- Trabalha remotamente, luta com foco e organizaçêo
 - Já tentou vários apps de produtividade, todos abandonados
-- Quer algo que a entenda, não que a cobre
+- Quer algo que a entenda, nêo que a cobre
 - Frustrações: apps complexos, métricas punitivas, sobrecarga de features
 
 **Persona Secundária: Carlos, 28 anos - Suspeita de TDAH**
-- Não diagnosticado, mas se identifica com sintomas
+- Nêo diagnosticado, mas se identifica com sintomas
 - Curioso sobre como seu cérebro funciona
 - Quer experimentar sem compromisso
 - Busca clareza e autoconhecimento
@@ -30,7 +30,7 @@ Este documento define os objetivos de experiência do usuário, arquitetura de i
 **Persona Terciária: Dra. Marina - Psicóloga/Terapeuta**
 - Atende pacientes com TDAH
 - Quer ferramenta para acompanhar progresso
-- Precisa de insights, não dados brutos
+- Precisa de insights, nêo dados brutos
 - Valoriza privacidade e ética
 
 #### Usability Goals
@@ -39,27 +39,27 @@ Este documento define os objetivos de experiência do usuário, arquitetura de i
 |------|---------------------|
 | **Facilidade de Aprendizado** | Novo usuário completa descoberta sem tutorial em < 7 min |
 | **Eficiência** | Ações principais (check-in, iniciar foco) em máximo 3 toques |
-| **Prevenção de Erros** | Nenhuma ação destrutiva sem confirmação; estados reversíveis |
+| **Prevençêo de Erros** | Nenhuma açêo destrutiva sem confirmaçêo; estados reversíveis |
 | **Memorabilidade** | Usuário ausente por 1 semana retorna sem reaprender |
-| **Satisfação** | Tom gentil em 100% das mensagens; zero linguagem punitiva |
+| **Satisfaçêo** | Tom gentil em 100% das mensagens; zero linguagem punitiva |
 
 #### Design Principles
 
-1. **Calma sobre Produtividade** - O app deve transmitir tranquilidade, não urgência. Evitar contadores, streaks punitivos, ou qualquer elemento que gere ansiedade.
+1. **Calma sobre Produtividade** - O app deve transmitir tranquilidade, nêo urgência. Evitar contadores, streaks punitivos, ou qualquer elemento que gere ansiedade.
 
-2. **Menos é Mais (Radical)** - Cada tela deve ter UM propósito claro. Remover tudo que não seja essencial. Espaço em branco é bem-vindo.
+2. **Menos é Mais (Radical)** - Cada tela deve ter UM propósito claro. Remover tudo que nêo seja essencial. Espaço em branco é bem-vindo.
 
-3. **Feedback Imediato e Gentil** - Toda ação tem resposta visual em < 300ms. Celebrar pequenas vitórias. Nunca mostrar "falha".
+3. **Feedback Imediato e Gentil** - Toda açêo tem resposta visual em < 300ms. Celebrar pequenas vitórias. Nunca mostrar "falha".
 
-4. **Acessível por Padrão** - Considerar comorbidades (ASD, dislexia, ansiedade). Opções de reduzir animações. Contraste adequado.
+4. **Acessível por Padrêo** - Considerar comorbidades (ASD, dislexia, ansiedade). Opções de reduzir animações. Contraste adequado.
 
-5. **Progressivo, Não Invasivo** - Mostrar apenas o necessário. Features avançadas descobertas gradualmente. Nunca empurrar.
+5. **Progressivo, Nêo Invasivo** - Mostrar apenas o necessário. Features avançadas descobertas gradualmente. Nunca empurrar.
 
 ### 1.2 Change Log
 
-| Data | Versão | Descrição | Autor |
+| Data | Versêo | Descriçêo | Autor |
 |------|--------|-----------|-------|
-| 2026-01-23 | 1.0 | Criação inicial | Sally (UX Expert) |
+| 2026-01-23 | 1.0 | Criaçêo inicial | Sally (UX Expert) |
 
 ---
 
@@ -70,13 +70,13 @@ Este documento define os objetivos de experiência do usuário, arquitetura de i
 ```mermaid
 graph TD
     A[Splash/Onboarding] --> B{Usuário Logado?}
-    B -->|Não| C[Descoberta]
+    B -->|Nêo| C[Descoberta]
     B -->|Sim| D[Home/Painel]
 
     C --> C1[Questionário]
     C1 --> C2[Resultado]
     C2 --> C3{Continuar?}
-    C3 -->|Não| C4[Salvar/Compartilhar]
+    C3 -->|Nêo| C4[Salvar/Compartilhar]
     C3 -->|Sim| E[Cadastro/Login]
 
     E --> D
@@ -106,7 +106,7 @@ graph TD
     COM[Comunidade]
     COM --> COM1[Feed]
     COM --> COM2[Times]
-    EDU[Educação]
+    EDU[Educaçêo]
     EDU --> EDU1[Pílulas]
     end
 
@@ -119,19 +119,19 @@ graph TD
 
 ### 2.2 Navigation Structure
 
-**Navegação Primária (Tab Bar - Mobile)**
+**Navegaçêo Primária (Tab Bar - Mobile)**
 ```
 [Home/Painel] [Plano] [Chat] [Perfil]
      🏠         📋      💬      👤
 ```
 
-**Navegação Secundária**
+**Navegaçêo Secundária**
 - Menu dentro de Perfil para: Configurações, Notificações, Relatórios, Plano
-- Acesso rápido a Modo Crise via long-press no ícone Home ou botão flutuante
+- Acesso rápido a Modo Crise via long-press no ícone Home ou botêo flutuante
 
 **Breadcrumb Strategy**
-- Não usar breadcrumbs (app mobile-first)
-- Usar navegação por gestos (swipe back)
+- Nêo usar breadcrumbs (app mobile-first)
+- Usar navegaçêo por gestos (swipe back)
 - Título da tela sempre visível no header
 
 ---
@@ -149,14 +149,14 @@ graph TD
 
 **Success Criteria:**
 - Completar questionário em < 7 minutos
-- Ver perfil + insight + sugestão
-- Sentir-se compreendido (não julgado)
+- Ver perfil + insight + sugestêo
+- Sentir-se compreendido (nêo julgado)
 
 ```mermaid
 graph TD
     A[Abre App] --> B[Tela de Boas-vindas]
     B --> C{Já tem conta?}
-    C -->|Não| D[Iniciar Descoberta]
+    C -->|Nêo| D[Iniciar Descoberta]
     C -->|Sim| L[Login]
 
     D --> E[Pergunta 1: Dificuldades]
@@ -179,11 +179,11 @@ graph TD
 ```
 
 **Edge Cases & Error Handling:**
-- Perda de conexão durante questionário → Salvar respostas localmente, continuar offline
+- Perda de conexêo durante questionário → Salvar respostas localmente, continuar offline
 - App fechado no meio → Retomar de onde parou
-- Usuário desiste → Permitir sair sem pressão, salvar progresso para retorno
+- Usuário desiste → Permitir sair sem pressêo, salvar progresso para retorno
 
-**Notes:** A descoberta é o coração do produto. Deve ser impecável, fluida e emocionalmente positiva.
+**Notes:** A descoberta é o coraçêo do produto. Deve ser impecável, fluida e emocionalmente positiva.
 
 ---
 
@@ -192,13 +192,13 @@ graph TD
 **User Goal:** Registrar como está meu dia de forma rápida e sem esforço
 
 **Entry Points:**
-- Notificação push
+- Notificaçêo push
 - Widget
-- Botão no painel
+- Botêo no painel
 
 **Success Criteria:**
 - Completar em < 30 segundos
-- Sentir que foi ouvido, não cobrado
+- Sentir que foi ouvido, nêo cobrado
 
 ```mermaid
 graph TD
@@ -211,12 +211,12 @@ graph TD
     B2 --> C
     B3 --> C
 
-    C -->|Sim| D[Sugestão de Ajuste]
-    C -->|Não| E[Tudo certo!]
+    C -->|Sim| D[Sugestêo de Ajuste]
+    C -->|Nêo| E[Tudo certo!]
 
     D --> F[Aplicar?]
     F -->|Sim| G[Plano Ajustado]
-    F -->|Não| E
+    F -->|Nêo| E
 
     G --> H[Feedback Positivo]
     E --> H
@@ -226,7 +226,7 @@ graph TD
 ```
 
 **Edge Cases:**
-- Usuário ignora notificação → Não enviar outra no mesmo dia
+- Usuário ignora notificaçêo → Nêo enviar outra no mesmo dia
 - Múltiplos check-ins → Mostrar último, permitir atualizar
 - Energia muito baixa detectada → Sugerir Modo Crise gentilmente
 
@@ -237,8 +237,8 @@ graph TD
 **User Goal:** Simplificar tudo quando estou sobrecarregado
 
 **Entry Points:**
-- Botão dedicado no painel
-- Sugestão após check-in de energia baixa
+- Botêo dedicado no painel
+- Sugestêo após check-in de energia baixa
 - Long-press no ícone do app
 
 **Success Criteria:**
@@ -253,7 +253,7 @@ graph TD
     C --> D[1 única coisa: Cuide de você]
     D --> E[Notificações Pausadas]
     E --> F[Interface Ultra-Simples]
-    F --> G{Amanhã}
+    F --> G{Amanhê}
     G --> H[Desativa Automaticamente]
     G --> I[Ou desativa manualmente]
 
@@ -277,14 +277,14 @@ graph TD
     A[Toca Iniciar Foco] --> B[Timer Inicia]
     B --> C[Tela de Foco Ativa]
     C --> D{Durante o Foco}
-    D -->|Distração| E[Botão: Anotar Pensamento]
+    D -->|Distraçêo| E[Botêo: Anotar Pensamento]
     E --> F[Adiciona ao Brain Dump]
     F --> C
-    D -->|Fim Timer| G[Celebração Sutil]
+    D -->|Fim Timer| G[Celebraçêo Sutil]
     D -->|Pausa| H[Timer Pausa]
     H --> I{Continuar?}
     I -->|Sim| C
-    I -->|Não| J[Encerra com Gentileza]
+    I -->|Nêo| J[Encerra com Gentileza]
     G --> K[Registra Foco Completo]
     J --> K
 
@@ -299,42 +299,42 @@ graph TD
 ### 4.1 Primary Design Files
 
 **Design Tool:** Figma (a ser criado)
-**Link:** *Pendente criação*
+**Link:** *Pendente criaçêo*
 
 ### 4.2 Key Screen Layouts
 
 #### Tela: Questionário de Descoberta
 
-**Purpose:** Coletar informações do usuário de forma engajante e não-cansativa
+**Purpose:** Coletar informações do usuário de forma engajante e nêo-cansativa
 
 **Key Elements:**
 - Pergunta centralizada (texto grande, legível)
-- Opções como cards tocáveis (não radio buttons)
+- Opções como cards tocáveis (nêo radio buttons)
 - Barra de progresso sutil no topo
-- Ilustração/ícone relacionado à pergunta
-- Botão de voltar discreto
+- Ilustraçêo/ícone relacionado à pergunta
+- Botêo de voltar discreto
 
 **Interaction Notes:**
 - Swipe horizontal para navegar entre perguntas
 - Toque em card seleciona e avança automaticamente
-- Animação suave entre perguntas
+- Animaçêo suave entre perguntas
 - Haptic feedback ao selecionar
 
 ---
 
 #### Tela: Resultado da Descoberta
 
-**Purpose:** Entregar valor imediato e conexão emocional
+**Purpose:** Entregar valor imediato e conexêo emocional
 
 **Key Elements:**
 - Perfil resumido em destaque (card principal)
 - Insight central em quote box estilizado
-- Sugestão prática com ícone de "próximo passo"
+- Sugestêo prática com ícone de "próximo passo"
 - Botões: Salvar | Compartilhar | Continuar
-- Ilustração celebratória sutil
+- Ilustraçêo celebratória sutil
 
 **Interaction Notes:**
-- Entrada com animação de "revelação"
+- Entrada com animaçêo de "revelaçêo"
 - Insight pode ser destacado para compartilhamento
 - Scroll suave se conteúdo exceder tela
 
@@ -342,14 +342,14 @@ graph TD
 
 #### Tela: Painel Principal (Home)
 
-**Purpose:** Visão rápida do dia e acesso a ações principais
+**Purpose:** Visêo rápida do dia e acesso a ações principais
 
 **Key Elements:**
-- Saudação personalizada (hora + nome)
+- Saudaçêo personalizada (hora + nome)
 - Card de Prioridade do Dia (destaque)
-- Indicador de Energia (visual, não número)
-- Status do Foco (iniciado/não)
-- Botão de Ajuste Rápido
+- Indicador de Energia (visual, nêo número)
+- Status do Foco (iniciado/nêo)
+- Botêo de Ajuste Rápido
 - Acesso a Modo Crise (discreto mas acessível)
 
 **Interaction Notes:**
@@ -361,18 +361,18 @@ graph TD
 
 #### Tela: Chat de Acompanhamento
 
-**Purpose:** Interação conversacional leve para coleta de sinais
+**Purpose:** Interaçêo conversacional leve para coleta de sinais
 
 **Key Elements:**
 - Bolhas de chat (sistema vs usuário)
 - Quick replies como chips tocáveis
-- Input de texto opcional (não obrigatório)
-- Botão de voz (plano Avançado)
+- Input de texto opcional (nêo obrigatório)
+- Botêo de voz (plano Avançado)
 - Histórico rolável
 
 **Interaction Notes:**
 - Quick replies respondem em 1 toque
-- Máximo 2-3 perguntas por sessão
+- Máximo 2-3 perguntas por sessêo
 - Tom sempre gentil e curto
 
 ---
@@ -384,12 +384,12 @@ graph TD
 **Key Elements:**
 - Fundo calmo (gradiente suave ou cor sólida)
 - Mensagem acolhedora central
-- UMA única sugestão simples
-- Botão de desativar modo
-- Sem navegação complexa visível
+- UMA única sugestêo simples
+- Botêo de desativar modo
+- Sem navegaçêo complexa visível
 
 **Interaction Notes:**
-- Tudo que não é essencial fica oculto
+- Tudo que nêo é essencial fica oculto
 - Gestos funcionam para voltar
 - Animações reduzidas automaticamente
 
@@ -399,7 +399,7 @@ graph TD
 
 ### 5.1 Design System Approach
 
-**Abordagem:** Design System customizado com base em princípios de calma e acessibilidade. Não usar design systems "produtivos" como Material Design padrão - customizar para ser mais suave.
+**Abordagem:** Design System customizado com base em princípios de calma e acessibilidade. Nêo usar design systems "produtivos" como Material Design padrêo - customizar para ser mais suave.
 
 ### 5.2 Core Components
 
@@ -408,9 +408,9 @@ graph TD
 **Purpose:** Ações primárias e secundárias
 
 **Variants:**
-- Primary (ação principal)
-- Secondary (ação secundária)
-- Ghost (ação terciária/cancelar)
+- Primary (açêo principal)
+- Secondary (açêo secundária)
+- Ghost (açêo terciária/cancelar)
 - Danger (ações destrutivas - uso mínimo)
 
 **States:** Default, Hover, Pressed, Disabled, Loading
@@ -425,10 +425,10 @@ graph TD
 
 #### Card
 
-**Purpose:** Containers de informação
+**Purpose:** Containers de informaçêo
 
 **Variants:**
-- Default (informação)
+- Default (informaçêo)
 - Interactive (tocável)
 - Highlight (destaque)
 - Subtle (background)
@@ -437,7 +437,7 @@ graph TD
 
 **Usage Guidelines:**
 - Sempre com padding interno consistente
-- Sombra sutil para elevação
+- Sombra sutil para elevaçêo
 - Border-radius 12-16px
 - Espaço adequado entre cards
 
@@ -456,7 +456,7 @@ graph TD
 **States:** Default, Focus, Filled, Error, Disabled
 
 **Usage Guidelines:**
-- Labels sempre visíveis (não apenas placeholder)
+- Labels sempre visíveis (nêo apenas placeholder)
 - Mensagens de erro gentis
 - Auto-complete quando possível
 - Tamanho de toque mínimo 44x44px
@@ -477,26 +477,26 @@ graph TD
 **Usage Guidelines:**
 - Sempre mostrar onde o usuário está
 - Cores positivas (nunca vermelho para incompleto)
-- Animações suaves de transição
+- Animações suaves de transiçêo
 
 ---
 
 #### Toast/Feedback
 
-**Purpose:** Feedback contextual não-intrusivo
+**Purpose:** Feedback contextual nêo-intrusivo
 
 **Variants:**
-- Success (celebração)
-- Info (informação)
-- Gentle Warning (atenção suave)
+- Success (celebraçêo)
+- Info (informaçêo)
+- Gentle Warning (atençêo suave)
 
 **States:** Entering, Visible, Exiting
 
 **Usage Guidelines:**
-- Nunca bloquear interação
+- Nunca bloquear interaçêo
 - Auto-dismiss após 3-4 segundos
-- Posição consistente (bottom ou top)
-- Sem "error" agressivo - reformular como "atenção"
+- Posiçêo consistente (bottom ou top)
+- Sem "error" agressivo - reformular como "atençêo"
 
 ---
 
@@ -507,10 +507,10 @@ graph TD
 **Brand Guidelines:** Baseado nos assets em `doc/` - cérebro fluido com cores suaves
 
 **Personalidade da Marca:**
-- Acolhedora, não clínica
-- Confiante, não urgente
-- Gentil, não condescendente
-- Moderna, não fria
+- Acolhedora, nêo clínica
+- Confiante, nêo urgente
+- Gentil, nêo condescendente
+- Moderna, nêo fria
 
 ### 6.2 Color Palette
 
@@ -557,7 +557,7 @@ graph TD
 
 **Icon Library:** Phosphor Icons (ou Heroicons)
 - Estilo: Outline para UI, Filled para estados ativos
-- Tamanho padrão: 24px
+- Tamanho padrêo: 24px
 - Tamanho em botões: 20px
 - Sempre com label acessível (aria-label)
 
@@ -593,7 +593,7 @@ xl:  32px
 - Contraste mínimo 4.5:1 para texto normal, 3:1 para texto grande
 - Focus indicators visíveis (outline 2px, offset 2px)
 - Texto redimensionável até 200% sem perda de funcionalidade
-- Não depender apenas de cor para transmitir informação
+- Nêo depender apenas de cor para transmitir informaçêo
 
 **Interaction:**
 - Toda funcionalidade acessível via teclado
@@ -608,18 +608,18 @@ xl:  32px
 - Mensagens de erro associadas aos campos
 
 **Considerações Especiais (TDAH/ASD):**
-- Opção de reduzir movimento (prefers-reduced-motion)
+- Opçêo de reduzir movimento (prefers-reduced-motion)
 - Evitar elementos piscando ou movendo constantemente
 - Interfaces limpas sem sobrecarga sensorial
-- Opção de modo de alto contraste
+- Opçêo de modo de alto contraste
 
 ### 7.3 Testing Strategy
 
 1. Testes automatizados (axe-core, Lighthouse)
 2. Teste manual com VoiceOver (iOS) e TalkBack (Android)
-3. Navegação apenas por teclado
+3. Navegaçêo apenas por teclado
 4. Teste com zoom 200%
-5. Validação com usuários reais neurodivergentes
+5. Validaçêo com usuários reais neurodivergentes
 
 ---
 
@@ -637,9 +637,9 @@ xl:  32px
 ### 8.2 Adaptation Patterns
 
 **Layout Changes:**
-- Mobile: Stack vertical, navegação bottom tab
-- Tablet: 2 colunas onde apropriado, navegação lateral opcional
-- Desktop: Layout mais espaçoso, sidebar para navegação
+- Mobile: Stack vertical, navegaçêo bottom tab
+- Tablet: 2 colunas onde apropriado, navegaçêo lateral opcional
+- Desktop: Layout mais espaçoso, sidebar para navegaçêo
 
 **Navigation Changes:**
 - Mobile: Bottom tab bar (4 itens)
@@ -660,14 +660,14 @@ xl:  32px
 
 ### 9.1 Motion Principles
 
-1. **Propósito** - Toda animação deve ter razão de existir (feedback, orientação, deleite)
+1. **Propósito** - Toda animaçêo deve ter razêo de existir (feedback, orientaçêo, deleite)
 2. **Sutileza** - Preferir animações curtas e suaves
 3. **Performance** - Usar transform e opacity (GPU-accelerated)
 4. **Respeito** - Honrar prefers-reduced-motion
 
 ### 9.2 Key Animations
 
-| Animação | Descrição | Duração | Easing |
+| Animaçêo | Descriçêo | Duraçêo | Easing |
 |----------|-----------|---------|--------|
 | **Page Transition** | Fade + slide sutil | 200ms | ease-out |
 | **Card Press** | Scale down 0.98 | 100ms | ease-in-out |
@@ -695,11 +695,11 @@ xl:  32px
 
 ### 10.2 Design Strategies
 
-- **Lazy loading** de imagens e componentes não-críticos
-- **Skeleton screens** durante carregamento (não spinners)
-- **Otimização de imagens** (WebP, tamanhos responsivos)
+- **Lazy loading** de imagens e componentes nêo-críticos
+- **Skeleton screens** durante carregamento (nêo spinners)
+- **Otimizaçêo de imagens** (WebP, tamanhos responsivos)
 - **Animações com transform/opacity** apenas
-- **Virtualização** para listas longas
+- **Virtualizaçêo** para listas longas
 - **Offline-first** com cache agressivo de assets estáticos
 
 ---
@@ -730,7 +730,7 @@ xl:  32px
 
 ## 12. Checklist Results
 
-*A ser preenchido após execução do checklist UX*
+*A ser preenchido após execuçêo do checklist UX*
 
 ---
 

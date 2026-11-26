@@ -1,6 +1,6 @@
 # NCIAFlux Architecture Document
 
-**Versão:** 1.1
+**Versêo:** 1.1
 **Data:** 25 de Janeiro de 2026
 **Status:** Draft
 
@@ -8,10 +8,10 @@
 
 ## 1. Introduction
 
-Este documento descreve a arquitetura técnica do NCIAFlux (NeuroFluxo), servindo como blueprint para desenvolvimento guiado por IA. A arquitetura foi projetada para suportar os três pilares do produto: **Autoconhecimento**, **Adaptação Constante** e **Sem Pressão**.
+Este documento descreve a arquitetura técnica do NCIAFlux (NeuroFluxo), servindo como blueprint para desenvolvimento guiado por IA. A arquitetura foi projetada para suportar os três pilares do produto: **Autoconhecimento**, **Adaptaçêo Constante** e **Sem Pressêo**.
 
-**Relação com Frontend Architecture:**
-A especificação de UI/UX está documentada em `docs/front-end-spec.md` e deve ser usada em conjunto com este documento para decisões de implementação de interface.
+**Relaçêo com Frontend Architecture:**
+A especificaçêo de UI/UX está documentada em `docs/front-end-spec.md` e deve ser usada em conjunto com este documento para decisões de implementaçêo de interface.
 
 ### 1.1 Starter Template
 
@@ -19,9 +19,9 @@ A especificação de UI/UX está documentada em `docs/front-end-spec.md` e deve 
 
 ### 1.2 Change Log
 
-| Data | Versão | Descrição | Autor |
+| Data | Versêo | Descriçêo | Autor |
 |------|--------|-----------|-------|
-| 2026-01-23 | 1.0 | Criação inicial | Architect (BMad) |
+| 2026-01-23 | 1.0 | Criaçêo inicial | Architect (BMad) |
 | 2026-01-25 | 1.1 | Roadmap atualizado: v1.5 Times, v1.6 PWA, v1.7 Notificacoes, v2.0 IA, v2.5 Testes, v3.0 Nativo. Planos: Free, Team, Premium, Empresarial | Architect (Claude) |
 | 2026-01-25 | 1.2 | Adicionado v1.3 Chat Input (OpenRouter) e v1.8 Voice Output. Arquitetura do chat com IA | Architect (Claude) |
 
@@ -31,19 +31,19 @@ A especificação de UI/UX está documentada em `docs/front-end-spec.md` e deve 
 
 ### 2.1 Technical Summary
 
-O NCIAFlux adota uma **arquitetura serverless** com **monorepo** para maximizar agilidade e minimizar custos operacionais. O sistema é composto por um app mobile React Native (iOS/Android), API serverless em Node.js/TypeScript, banco de dados PostgreSQL gerenciado, e CMS headless para conteúdo dinâmico. A arquitetura prioriza **offline-first** para garantir que usuários com TDAH não percam dados por problemas de conexão, e utiliza **feature flags** extensivamente para gestão de planos sem deploy.
+O NCIAFlux adota uma **arquitetura serverless** com **monorepo** para maximizar agilidade e minimizar custos operacionais. O sistema é composto por um app mobile React Native (iOS/Android), API serverless em Node.js/TypeScript, banco de dados PostgreSQL gerenciado, e CMS headless para conteúdo dinâmico. A arquitetura prioriza **offline-first** para garantir que usuários com TDAH nêo percam dados por problemas de conexêo, e utiliza **feature flags** extensivamente para gestêo de planos sem deploy.
 
 ### 2.2 High Level Overview
 
 1. **Estilo Arquitetural**: Serverless com componentes gerenciados (BaaS - Backend as a Service)
-2. **Estrutura de Repositório**: Monorepo (conforme PRD seção 4.1)
+2. **Estrutura de Repositório**: Monorepo (conforme PRD seçêo 4.1)
 3. **Arquitetura de Serviços**: API Gateway + Lambda Functions organizadas por domínio
 4. **Fluxo Principal de Dados**:
    - Mobile App ↔ API Gateway ↔ Lambda Functions ↔ Database
    - Dados offline sincronizam via queue quando online
    - Push notifications via serviço gerenciado
 5. **Decisões Arquiteturais Chave**:
-   - React Native (não Flutter) para aproveitar ecossistema TypeScript
+   - React Native (nêo Flutter) para aproveitar ecossistema TypeScript
    - Supabase como plataforma principal (Auth, Database, Storage, Realtime)
    - WatermelonDB para offline-first no mobile
    - Edge Functions para lógica serverless
@@ -108,11 +108,11 @@ graph TB
 ### 2.4 Architectural and Design Patterns
 
 - **Serverless Architecture:** Edge Functions (Supabase/Deno) para compute - _Rationale:_ Alinha com requisito de custo otimizado e escalabilidade automática, zero cold-start com Deno
-- **Repository Pattern:** Abstração de acesso a dados via services - _Rationale:_ Facilita testes e futura migração de banco se necessário
+- **Repository Pattern:** Abstraçêo de acesso a dados via services - _Rationale:_ Facilita testes e futura migraçêo de banco se necessário
 - **Offline-First Pattern:** WatermelonDB com sync queue - _Rationale:_ Crítico para usuários TDAH que podem ter interrupções frequentes
-- **Feature Flag Pattern:** Flagsmith para controle de features por plano - _Rationale:_ Atende NFR18/NFR19 de gestão sem deploy
+- **Feature Flag Pattern:** Flagsmith para controle de features por plano - _Rationale:_ Atende NFR18/NFR19 de gestêo sem deploy
 - **Event-Driven (parcial):** Realtime subscriptions para sync - _Rationale:_ Permite updates em tempo real sem polling
-- **CQRS Light:** Separação de queries (read replicas) e commands - _Rationale:_ Otimiza leitura do dashboard que é acessado frequentemente
+- **CQRS Light:** Separaçêo de queries (read replicas) e commands - _Rationale:_ Otimiza leitura do dashboard que é acessado frequentemente
 
 ---
 
@@ -126,7 +126,7 @@ graph TB
   - Vercel: Next.js hosting, Edge Network
   - AWS: S3 (backups), CloudWatch (monitoring)
   - OneSignal: Push Notifications
-- **Deployment Regions:** Primary: São Paulo (sa-east-1), Secondary: US East (fallback)
+- **Deployment Regions:** Primary: Sêo Paulo (sa-east-1), Secondary: US East (fallback)
 
 ### 3.2 Technology Stack Table
 
@@ -159,13 +159,13 @@ graph TB
 
 ### 4.1 User
 
-**Purpose:** Representa um usuário do sistema com seu perfil de autenticação e configurações
+**Purpose:** Representa um usuário do sistema com seu perfil de autenticaçêo e configurações
 
 **Key Attributes:**
 - `id`: UUID - Identificador único
 - `email`: string - Email do usuário
-- `created_at`: timestamp - Data de criação
-- `updated_at`: timestamp - Última atualização
+- `created_at`: timestamp - Data de criaçêo
+- `updated_at`: timestamp - Última atualizaçêo
 - `plan_id`: UUID - Plano atual (FK)
 - `onboarding_completed`: boolean - Se completou onboarding
 
@@ -185,12 +185,12 @@ graph TB
 - `user_id`: UUID - Usuário dono (FK)
 - `summary`: text - Resumo do perfil (1-2 frases)
 - `insight`: text - Insight central
-- `suggestion`: text - Sugestão prática
-- `energy_pattern`: jsonb - Padrão de energia por horário
-- `execution_style`: enum - Estilo de execução (sequential, parallel, burst)
+- `suggestion`: text - Sugestêo prática
+- `energy_pattern`: jsonb - Padrêo de energia por horário
+- `execution_style`: enum - Estilo de execuçêo (sequential, parallel, burst)
 - `overload_threshold`: int - Nível de sobrecarga tolerado (1-10)
 - `preferred_techniques`: text[] - Técnicas que funcionam
-- `version`: int - Versão do perfil (para histórico)
+- `version`: int - Versêo do perfil (para histórico)
 - `created_from`: enum - Origem (discovery, adaptation, rediscovery)
 
 **Relationships:**
@@ -209,7 +209,7 @@ graph TB
 - `billing_period`: enum - Período (monthly, yearly)
 
 **Planos Disponíveis:**
-| Plano | Versão | Storage | Features Principais |
+| Plano | Versêo | Storage | Features Principais |
 |-------|--------|---------|---------------------|
 | free | v1.2 | Local | Funcionalidades pessoais completas |
 | team | v1.5 | Central + P2P | Times, chat equipe, descoberta central |
@@ -272,14 +272,14 @@ graph TB
 
 ### 4.7 ConditionalRoutine
 
-**Purpose:** Rotina condicional configurada pelo usuário (se/então)
+**Purpose:** Rotina condicional configurada pelo usuário (se/entêo)
 
 **Key Attributes:**
 - `id`: UUID - Identificador único
 - `user_id`: UUID - Usuário (FK)
 - `name`: string - Nome da rotina
-- `condition`: jsonb - Condição {type, operator, value}
-- `action`: jsonb - Ação {type, params}
+- `condition`: jsonb - Condiçêo {type, operator, value}
+- `action`: jsonb - Açêo {type, params}
 - `is_active`: boolean - Se está ativa
 - `times_triggered`: int - Vezes que foi ativada
 
@@ -288,12 +288,12 @@ graph TB
 
 ### 4.8 NotificationSetting
 
-**Purpose:** Configurações de notificação do usuário
+**Purpose:** Configurações de notificaçêo do usuário
 
 **Key Attributes:**
 - `id`: UUID - Identificador único
 - `user_id`: UUID - Usuário (FK)
-- `type`: enum - Tipo de notificação
+- `type`: enum - Tipo de notificaçêo
 - `is_enabled`: boolean - Se está habilitada
 - `channel`: enum - Canal (push, whatsapp, email)
 - `time`: time - Horário preferido
@@ -314,7 +314,7 @@ graph TB
 - `category`: enum - Categoria
 - `required_plan`: enum - Plano mínimo
 - `is_published`: boolean - Se está publicado
-- `order`: int - Ordem de exibição
+- `order`: int - Ordem de exibiçêo
 - `read_time_minutes`: int - Tempo estimado de leitura
 
 **Relationships:**
@@ -375,7 +375,7 @@ erDiagram
 
 ### 5.3 API Gateway (Supabase)
 
-**Responsibility:** Roteamento de requests, autenticação, rate limiting, RLS
+**Responsibility:** Roteamento de requests, autenticaçêo, rate limiting, RLS
 
 **Key Interfaces:**
 - REST endpoints auto-gerados do schema
@@ -393,7 +393,7 @@ erDiagram
 **Key Interfaces:**
 - `/functions/v1/generate-profile` - Gera perfil da descoberta
 - `/functions/v1/generate-daily-plan` - Gera plano diário
-- `/functions/v1/process-adaptation` - Processa adaptação do perfil
+- `/functions/v1/process-adaptation` - Processa adaptaçêo do perfil
 - `/functions/v1/send-notification` - Envia notificações
 - `/functions/v1/chat-response` - Resposta do chat (com LLM)
 
@@ -416,7 +416,7 @@ erDiagram
 
 ### 5.6 Auth Service
 
-**Responsibility:** Autenticação, gestão de sessões, OAuth
+**Responsibility:** Autenticaçêo, gestêo de sessões, OAuth
 
 **Key Interfaces:**
 - Sign up/in com email/senha
@@ -445,12 +445,12 @@ erDiagram
 
 ### 5.8 CMS (Strapi)
 
-**Responsibility:** Gestão de conteúdo educativo, feature toggles de conteúdo
+**Responsibility:** Gestêo de conteúdo educativo, feature toggles de conteúdo
 
 **Key Interfaces:**
 - REST API para conteúdos
-- Admin UI para gestão
-- Webhooks para invalidação de cache
+- Admin UI para gestêo
+- Webhooks para invalidaçêo de cache
 
 **Dependencies:** PostgreSQL (separado), Storage
 
@@ -458,7 +458,7 @@ erDiagram
 
 ### 5.9 Feature Flag Service
 
-**Responsibility:** Gestão de features por plano, A/B testing, rollouts
+**Responsibility:** Gestêo de features por plano, A/B testing, rollouts
 
 **Key Interfaces:**
 - Get flags for user
@@ -521,15 +521,15 @@ graph LR
 - **Rate Limits:** 1 request/second para creates, higher para reads
 
 **Key Endpoints Used:**
-- `POST /notifications` - Enviar notificação
-- `DELETE /notifications/{id}` - Cancelar notificação agendada
+- `POST /notifications` - Enviar notificaçêo
+- `DELETE /notifications/{id}` - Cancelar notificaçêo agendada
 - `POST /players` - Registrar dispositivo
 
 **Integration Notes:** Usar SDK para mobile, REST para server-side
 
 ### 6.2 Claude API (Anthropic)
 
-- **Purpose:** Chat inteligente, geração de insights
+- **Purpose:** Chat inteligente, geraçêo de insights
 - **Documentation:** https://docs.anthropic.com/
 - **Base URL:** https://api.anthropic.com/v1
 - **Authentication:** API Key via header
@@ -542,7 +542,7 @@ graph LR
 
 ### 6.3 Flagsmith API
 
-- **Purpose:** Feature flags e configuração remota
+- **Purpose:** Feature flags e configuraçêo remota
 - **Documentation:** https://docs.flagsmith.com/
 - **Base URL:** https://edge.api.flagsmith.com/api/v1 (ou self-hosted)
 - **Authentication:** Environment Key
@@ -564,7 +564,7 @@ graph LR
 **Key Endpoints Used:**
 - `POST /messages` - Enviar template message
 
-**Integration Notes:** Requer aprovação de templates, usar apenas para notificações opt-in
+**Integration Notes:** Requer aprovaçêo de templates, usar apenas para notificações opt-in
 
 ---
 
@@ -590,7 +590,7 @@ sequenceDiagram
     end
 
     M->>A: POST /functions/v1/generate-profile
-    A->>E: Invoca função
+    A->>E: Invoca funçêo
     E->>E: Processa respostas
     E->>L: (opcional) Gera insight personalizado
     L-->>E: Insight gerado
@@ -600,7 +600,7 @@ sequenceDiagram
     A-->>M: Profile JSON
     M->>M: Exibe resultado
 
-    alt Usuário não logado
+    alt Usuário nêo logado
         U->>M: Clica "Salvar"
         M->>M: Prompt de cadastro
         U->>M: Cria conta
@@ -634,7 +634,7 @@ sequenceDiagram
         W->>W: Feedback visual
     end
 
-    A->>A: Trigger adaptação (async)
+    A->>A: Trigger adaptaçêo (async)
 ```
 
 ### 7.3 Fluxo de Modo Crise
@@ -663,7 +663,7 @@ sequenceDiagram
     A-->>M: Plano normal
 ```
 
-### 7.4 Fluxo de Sincronização Offline
+### 7.4 Fluxo de Sincronizaçêo Offline
 
 ```mermaid
 sequenceDiagram
@@ -682,7 +682,7 @@ sequenceDiagram
     U->>M: Faz check-in
     M->>L: Salva localmente
 
-    Note over U,D: Conexão restaurada
+    Note over U,D: Conexêo restaurada
 
     M->>M: Detecta online
     M->>L: Query pending syncs
@@ -691,7 +691,7 @@ sequenceDiagram
     loop Para cada mudança
         M->>A: POST /sync
         A->>D: Aplica mudança
-        D-->>A: Confirmação
+        D-->>A: Confirmaçêo
         A-->>M: Sync success
         M->>L: Update sync_status = synced
     end
@@ -844,7 +844,7 @@ paths:
   # Notifications Settings
   /notification-settings:
     get:
-      summary: Obtém configurações de notificação
+      summary: Obtém configurações de notificaçêo
       tags: [Notifications]
       security:
         - bearerAuth: []
@@ -1468,10 +1468,10 @@ Gradual Rollout (10% → 50% → 100%)
 
 ### 13.3 Critical Rules
 
-- **No console.log em produção:** Usar logger estruturado
-- **Validação com Zod:** Todos os inputs externos devem ser validados com Zod schemas
+- **No console.log em produçêo:** Usar logger estruturado
+- **Validaçêo com Zod:** Todos os inputs externos devem ser validados com Zod schemas
 - **Feature flags obrigatórios:** Novas features devem estar atrás de flags
-- **Não expor erros internos:** Nunca retornar stack traces ou detalhes de implementação
+- **Nêo expor erros internos:** Nunca retornar stack traces ou detalhes de implementaçêo
 - **Offline-first:** Operações de escrita devem funcionar offline e sincronizar depois
 - **Mensagens gentis:** Textos voltados ao usuário devem seguir o tom do NCIAFlux
 
@@ -1488,7 +1488,7 @@ Gradual Rollout (10% → 50% → 100%)
 
 ### 14.1 Testing Philosophy
 
-- **Approach:** Test-after com foco em comportamento, não implementação
+- **Approach:** Test-after com foco em comportamento, nêo implementaçêo
 - **Coverage Goals:** 70% para código crítico (profile generation, sync, payments)
 - **Test Pyramid:** 70% unit, 20% integration, 10% E2E
 
@@ -1525,7 +1525,7 @@ Gradual Rollout (10% → 50% → 100%)
 
 ### 14.3 Test Data Management
 
-- **Strategy:** Factory pattern para geração de dados
+- **Strategy:** Factory pattern para geraçêo de dados
 - **Fixtures:** `/packages/shared/src/fixtures/`
 - **Factories:** Usando @faker-js/faker
 - **Cleanup:** Transações com rollback ou database reset
@@ -1582,9 +1582,9 @@ Gradual Rollout (10% → 50% → 100%)
 - **Encryption at Rest:** Supabase PostgreSQL (AES-256)
 - **Encryption in Transit:** TLS 1.3
 - **PII Handling:**
-  - Dados de saúde mental são dados sensíveis (LGPD)
-  - Exportação completa disponível
-  - Exclusão completa disponível
+  - Dados de saúde mental sêo dados sensíveis (LGPD)
+  - Exportaçêo completa disponível
+  - Exclusêo completa disponível
 - **Logging Restrictions:** Nunca logar: senhas, tokens, conteúdo de chat, dados de saúde
 
 ### 15.6 Dependency Security
@@ -1622,7 +1622,7 @@ v1.3 (Chat Input) ← PRÓXIMO
 v1.5 (Team)
 ├── Storage: Central server + P2P
 ├── Times: WebSocket/SignalR para descoberta
-├── P2P: WebRTC para comunicação direta
+├── P2P: WebRTC para comunicaçêo direta
 └── Deploy: Supabase + TURN servers
 
 v1.6 (PWA + Testes)
@@ -1634,12 +1634,12 @@ v1.6 (PWA + Testes)
 v1.7 (Notificações + Terapeutas)
 ├── Push: OneSignal/FCM
 ├── Permissões: Compartilhamento seletivo
-├── Dashboard: Visão do terapeuta
+├── Dashboard: Visêo do terapeuta
 └── Relatórios: PDF export
 
 v1.8 (Voice Output)
 ├── TTS: Web Speech API (Text-to-Speech)
-├── Vozes: Seleção de vozes PT-BR
+├── Vozes: Seleçêo de vozes PT-BR
 ├── Modo Crise: Auto-read com voz calma
 └── Premium: ElevenLabs opcional
 
@@ -1649,7 +1649,7 @@ v2.0 (Premium Cloud)
 ├── IA Ilimitada: Sem rate limiting
 └── Backup: Automático na nuvem
 
-v2.5 (Testes + Estabilização)
+v2.5 (Testes + Estabilizaçêo)
 ├── Load Testing: k6
 ├── Security: OWASP ZAP + Pentest
 ├── Accessibility: axe-core
@@ -1663,20 +1663,20 @@ v3.0 (Empresarial)
 └── API: OpenAPI + SDK público
 ```
 
-### 16.2 Considerações de Migração
+### 16.2 Considerações de Migraçêo
 
 | De → Para | Estratégia |
 |-----------|------------|
 | Free → Team | Dados locais replicados para central |
-| Team → Premium | Migração P2P para cloud sync |
-| Premium → Enterprise | Provisioning de organização |
+| Team → Premium | Migraçêo P2P para cloud sync |
+| Premium → Enterprise | Provisioning de organizaçêo |
 | Downgrade | Dados cloud exportados para local |
 
 ---
 
 ## 17. Checklist Results Report
 
-*A ser preenchido após execução do architect-checklist*
+*A ser preenchido após execuçêo do architect-checklist*
 
 ---
 
@@ -1684,7 +1684,7 @@ v3.0 (Empresarial)
 
 ### 18.1 Para o PO (Product Owner)
 
-> Com a arquitetura definida, o próximo passo é fragmentar o PRD em épicos e stories detalhadas. Use o documento `docs/prd.md` seção 6 como base e crie stories com acceptance criteria claros, considerando a arquitetura técnica descrita aqui.
+> Com a arquitetura definida, o próximo passo é fragmentar o PRD em épicos e stories detalhadas. Use o documento `docs/prd.md` seçêo 6 como base e crie stories com acceptance criteria claros, considerando a arquitetura técnica descrita aqui.
 
 ### 18.2 Para o Dev Agent
 

@@ -43,12 +43,12 @@ const FEATURE_NAMES: Record<string, string> = {
   focus_mode: 'Modo Foco',
   all_tasks: 'Todas as Tarefas',
   reports: 'Relatórios',
-  weekly_review: 'Revisão Semanal',
+  weekly_review: 'Revisêo Semanal',
   calendar: 'Calendário',
   multi_device: 'Multi-dispositivo',
   chat_1to1: 'Chat 1:1',
   communities: 'Comunidades',
-  team_management: 'Gestão de Equipe',
+  team_management: 'Gestêo de Equipe',
   advanced_reports: 'Relatórios Avançados',
 };
 
@@ -233,7 +233,7 @@ export default function AdaptivePage() {
               {[
                 { key: 'checkInConsistency', label: 'Consistência de Check-in', icon: '📝' },
                 { key: 'moodStability', label: 'Estabilidade de Humor', icon: '😊' },
-                { key: 'taskCompletion', label: 'Conclusão de Tarefas', icon: '✅' },
+                { key: 'taskCompletion', label: 'Conclusêo de Tarefas', icon: '✅' },
                 { key: 'crisisFrequency', label: 'Frequência de Crises', icon: '🆘' },
                 { key: 'routineAdherence', label: 'Aderência a Rotinas', icon: '🔄' },
               ].map((item) => {
@@ -280,7 +280,7 @@ export default function AdaptivePage() {
                 </div>
               </div>
               <p className="text-xs text-neutral-textSecondary">
-                Você é mais produtivo no período da {settings?.chronotype === 'morning' ? 'manhã' : settings?.chronotype === 'evening' ? 'noite' : 'tarde'}
+                Você é mais produtivo no período da {settings?.chronotype === 'morning' ? 'manhê' : settings?.chronotype === 'evening' ? 'noite' : 'tarde'}
               </p>
             </div>
 
@@ -312,7 +312,7 @@ export default function AdaptivePage() {
                 </div>
               </div>
               <p className="text-xs text-neutral-textSecondary">
-                Duração ideal para suas sessões de foco
+                Duraçêo ideal para suas sessões de foco
               </p>
             </div>
           </div>
@@ -324,7 +324,7 @@ export default function AdaptivePage() {
         <div className="mt-6 bg-gradient-to-r from-primary-main/10 to-secondary-main/10 rounded-2xl p-6">
           <h2 className="text-lg font-semibold text-neutral-textPrimary mb-4 flex items-center gap-2">
             <Lightbulb className="w-5 h-5 text-secondary-main" />
-            Sugestões de Adaptação
+            Sugestões de Adaptaçêo
           </h2>
           <p className="text-sm text-neutral-textSecondary mb-4">
             Com base nos seus padrões de uso, identificamos oportunidades de melhoria
@@ -376,7 +376,7 @@ export default function AdaptivePage() {
                 Desbloqueio de Funcionalidades
               </h2>
               <p className="text-sm text-neutral-textSecondary mt-1">
-                Novas funcionalidades são liberadas conforme você progride
+                Novas funcionalidades sêo liberadas conforme você progride
               </p>
             </div>
             <div className="text-right">
@@ -472,7 +472,7 @@ export default function AdaptivePage() {
             <ul className="text-sm text-neutral-textSecondary space-y-1">
               <li>• Detecta seu cronotipo baseado em quando você é mais ativo</li>
               <li>• Identifica seus horários de pico de produtividade</li>
-              <li>• Ajusta a duração ideal das sessões de foco</li>
+              <li>• Ajusta a duraçêo ideal das sessões de foco</li>
               <li>• Desbloqueia funcionalidades conforme sua estabilidade aumenta</li>
               <li>• Sugere adaptações para melhorar sua experiência</li>
             </ul>

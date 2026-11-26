@@ -45,7 +45,7 @@ Create a mobile "Crisis Mode" screen for "NCIAFlux" ADHD app. This is an ultra-s
    - Simple white card, centered
    - Very rounded (rounded-3xl)
    - Content:
-     - Small label: "Sua única missão"
+     - Small label: "Sua única missêo"
      - Task: "Beba um copo de água 💧"
      - OR: "Respire fundo 3 vezes 🌬️"
      - OR: "Apenas descanse 🛋️"
@@ -54,7 +54,7 @@ Create a mobile "Crisis Mode" screen for "NCIAFlux" ADHD app. This is an ultra-s
 
 5. **Supportive Message:**
    - Below the card
-   - "Notificações pausadas até amanhã"
+   - "Notificações pausadas até amanhê"
    - "Seu plano volta ao normal quando você quiser"
    - Small, muted text
 
@@ -81,7 +81,7 @@ Create a mobile "Crisis Mode" screen for "NCIAFlux" ADHD app. This is an ultra-s
 ```
 
 ## Mensagens Alternativas
-Variar a "única missão" para não ser repetitivo:
+Variar a "única missêo" para nêo ser repetitivo:
 - "Beba água"
 - "Respire fundo"
 - "Descanse um pouco"

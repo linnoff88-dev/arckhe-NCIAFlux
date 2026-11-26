@@ -458,7 +458,7 @@ export default function CommunitiesPage() {
 
               <div>
                 <label className="block text-sm font-medium text-neutral-textSecondary mb-2">
-                  Descrição
+                  Descriçêo
                 </label>
                 <textarea
                   value={newCommunity.description}
